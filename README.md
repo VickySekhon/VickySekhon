@@ -14,7 +14,7 @@
   <img src = "https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg">
 </a>
 
-<a href = https://discord.com/"">
+<a href = "https://discord.com/">
   <img src = "https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Discord.svg">
 </a>
 
