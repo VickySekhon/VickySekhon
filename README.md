@@ -18,7 +18,7 @@
 </a>
 
 
-<a href = "mailto:sekh4498@mylaurier.ca>
+<a href = "mailto:sekh4498@mylaurier.ca">
   <img src = "https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Outlook.svg">
 </a>
 
