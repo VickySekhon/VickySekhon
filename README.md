@@ -9,11 +9,9 @@
 
 
 ### Connect With Me:
-<div>
-  <a href = "https://www.linkedin.com/in/vicky-sekhon-515560203/">
-    <img src = "174857 (1).png">
-  </a>
-</div>
+
+<a href="https://linkedin.com/in/nish-tewari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nish-tewari" height="30" width="40" /></a> <a href="https://discord.gg/https://discordapp.com/users/566774289525899305/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/566774289525899305/" height="30" width="40" /></a>
+
 <!--
 **VickySekhon/VickySekhon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
