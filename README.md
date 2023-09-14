@@ -2,9 +2,8 @@
 
 - 🏫 I am Second-Year student @ <a href = "https://www.wlu.ca/">Wilfrid Laurier University</a>
 - 🔭 I’m currently working on a project called 'InternSync' 
-- 🌱 I’m currently learning JavaScript
+- 🌱 Language I'm learning right now: JavaScript
 - 💬 Ask me about my <a href = "http://127.0.0.1:5500/Youtube/youtsube.html">YouTube Clone Project</a>
-- 📫 How to reach me: sekh4498@mylaurier.ca
 - ⚡ Fun fact: I can solve a 3x3 Rubik's cube
 
 
@@ -16,6 +15,11 @@
 
 <a href = "https://discord.com/">
   <img src = "https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Discord.svg">
+</a>
+
+
+<a href = "mailto:sekh4498@mylaurier.ca>
+  <img src = "https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Outlook.svg">
 </a>
 
 <!--
