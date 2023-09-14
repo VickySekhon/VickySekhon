@@ -11,7 +11,7 @@
 ### Connect With Me:
 
 <a href = "https://www.linkedin.com/in/vicky-sekhon-515560203/">
-  <img src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg)">
+  <img src = "https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg">
 </a>
 
 <!--
