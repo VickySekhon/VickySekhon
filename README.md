@@ -11,7 +11,7 @@
 ### Connect With Me:
 <div>
   <a href = "https://www.linkedin.com/in/vicky-sekhon-515560203/">
-    <img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw3fQSjkT65yt-FB3Px8Fjt3&ust=1694819855604000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOiB4Y2eq4EDFQAAAAAdAAAAABAE">
+    <img src = "174857 (1).png">
   </a>
 </div>
 <!--
