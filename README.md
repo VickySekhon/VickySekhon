@@ -41,7 +41,7 @@
       <strong>Personal Experience:</strong>
       This was an extremely fun project I worked on over the course of 2 weeks. I learned fundamental HTML elements and have become familiar with advanced CSS design elements to the extent that I am confident in my abilities to use HTML and CSS for website development.
     </p>
-    <a href="https://ibb.co/0srmh63"><img style = "width: 200px;" src="https://i.ibb.co/6XFrgT5/Screenshot-2023-09-14-205755.png" alt="Screenshot-2023-09-14-205755"></a>
+    <a href="https://ibb.co/hCK2Mnn"><img style = "width: 200px;" src="https://i.ibb.co/qxRmn44/Screenshot-2023-09-14-203131.png" alt="Screenshot-2023-09-14-203131"></a>
   </div>
   <br>
 
@@ -55,7 +55,7 @@
       <strong>Personal Experience:</strong>
       This project was very rewarding because I used all the code interactively. I especially enjoyed the backend of this project and was surprised at the math involved in moving the character forward. Overall, I learned how to use Pygame for game development and this project contributed to my knowledge of Python outside of data structures and sorting algorithms.
     </p>
-    <a href="https://ibb.co/hCK2Mnn"><img style = "width: 200px;" src="https://i.ibb.co/qxRmn44/Screenshot-2023-09-14-203131.png" alt="Screenshot-2023-09-14-203131"></a>
+    <a href="https://ibb.co/0srmh63"><img style = "width: 200px;" src="https://i.ibb.co/6XFrgT5/Screenshot-2023-09-14-205755.png" alt="Screenshot-2023-09-14-205755"></a>
   </div>
 </html>
 
