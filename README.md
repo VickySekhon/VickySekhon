@@ -9,18 +9,17 @@
 
 ### Connect With Me:
 
-<a href = "https://www.linkedin.com/in/vicky-sekhon-515560203/">
-  <img src = "https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg">
-</a>
-
-<a href = "https://discord.com/">
-  <img src = "https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Discord.svg">
-</a>
-
-
-<a href = "mailto:sekh4498@mylaurier.ca">
-  <img src = "https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Outlook.svg">
-</a>
+<div style = "display: inline-block;">
+  <a href = "https://www.linkedin.com/in/vicky-sekhon-515560203/">
+    <img src = "https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg">
+  </a>
+  <a style = "height: 50px;" href = "https://discord.com/">
+    <img src = "https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Discord.svg">
+  </a>
+  <a href = "mailto:sekh4498@mylaurier.ca">
+    <img src = "https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Outlook.svg">
+  </a>
+</div>
 
 <!--
 **VickySekhon/VickySekhon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
