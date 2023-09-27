@@ -11,7 +11,7 @@
   <p>- 🌱 The language that I'm currently learning is <strong>JavaScript</strong></p>
   <p>- 💬 Ask me about my <a href = "http://127.0.0.1:5500/Youtube/youtsube.html">YouTube Clone Project</a></p>
   <p>- ⚡ Fun fact I can solve a <strong>3x3 Rubik's cube</strong></p>
-  <p>- 📄 <a href = "https://pdfhost.io/edit?doc=7816489c-6b67-41e6-a1fc-ca49454ad949">Resume</a></p>
+  <p>- 📄 <a href = "https://pdfhost.io/v/GtqSG.ROG_Phone">Resume</a></p>
 
   
   
