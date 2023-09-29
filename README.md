@@ -44,9 +44,7 @@
   </div>
   <be>
 
-  <a href = "https://vickysekhon.github.io/Calculator/">
-  <h3>Text-to-Speech</h3>
-  </a>
+  <a href = "https://vickysekhon.github.io/TextToSpeech/"><h3>Text-to-Speech</h3></a>
   <h5 style = "margin-bottom: 0px;">HTML | CSS | JavaScript</h5>
   <div>
     <p style = "width: 390px; display: inline-block; vertical-align: middle;"><strong>Project Overview:</strong>
@@ -56,7 +54,7 @@ Created a webpage where consumers can type text and click a button to hear it re
       <strong>Personal Experience:</strong>
 This project allowed me to learn fundamental data skills as I accessed user information by using local storage to save a user's data. In addition to this, I am happy with the styling and minimalistic appearance of the webpage, it is one of my favourite projects.
     </p>
-    <a href="https://ibb.co/hCK2Mnn"><img style = "width: 200px;" src="https://i.ibb.co/qxRmn44/Screenshot-2023-09-14-203131.png" alt="Screenshot-2023-09-14-203131"></a>
+   <a href="https://ibb.co/VH7tTz3"><img src="https://i.ibb.co/SQhPBMJ/Screenshot-2023-09-26-194353.png" alt="Screenshot-2023-09-26-194353" border="0"></a>
   </div>
   <br>
 
