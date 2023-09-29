@@ -42,10 +42,11 @@
     </p>
     <a href="https://ibb.co/hCK2Mnn"><img style = "width: 200px;" src="https://i.ibb.co/qxRmn44/Screenshot-2023-09-14-203131.png" alt="Screenshot-2023-09-14-203131"></a>
   </div>
-  <br>
+  <be>
 
-
-     <h3>Text-to-Speech</h3>
+  <a href = "https://vickysekhon.github.io/Calculator/">
+  <h3>Text-to-Speech</h3>
+  </a>
   <h5 style = "margin-bottom: 0px;">HTML | CSS | JavaScript</h5>
   <div>
     <p style = "width: 390px; display: inline-block; vertical-align: middle;"><strong>Project Overview:</strong>
