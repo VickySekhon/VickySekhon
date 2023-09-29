@@ -44,6 +44,21 @@
   </div>
   <br>
 
+
+     <h3>Text-to-Speech</h3>
+  <h5 style = "margin-bottom: 0px;">HTML | CSS | JavaScript</h5>
+  <div>
+    <p style = "width: 390px; display: inline-block; vertical-align: middle;"><strong>Project Overview:</strong>
+Created a webpage where consumers can type text and click a button to hear it read to them. Includes volume, speech tempo, and voice accent customizability. Features a word count with remaining characters displayed to the user. Uses local storage to store inputted text inside the browser's cache.  
+      <br>
+      <br>
+      <strong>Personal Experience:</strong>
+This project allowed me to learn fundamental data skills as I accessed user information by using local storage to save a user's data. In addition to this, I am happy with the styling and minimalistic appearance of the webpage, it is one of my favourite projects.
+    </p>
+    <a href="https://ibb.co/hCK2Mnn"><img style = "width: 200px;" src="https://i.ibb.co/qxRmn44/Screenshot-2023-09-14-203131.png" alt="Screenshot-2023-09-14-203131"></a>
+  </div>
+  <br>
+
   <h3>Runner</h3>
   <h5 style = "margin-bottom: 0px;">Python | Pygame</h5>
   <div>
