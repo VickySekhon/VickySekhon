@@ -38,7 +38,7 @@
       <strong>Personal Experience:</strong>
       This was an extremely fun project I worked on over the course of one week. I spent most of my time understanding the implementation of the selected algorithms, using pen and paper to visualize the sorting process. I then implemented all of the algorithms in code. I then learned and got some help using Tkinter and eventually created the visualization tool.
     </p>
-    <a href="https://ibb.co/hCK2Mnn"><img style = "width: 200px;" src="https://i.ibb.co/qxRmn44/Screenshot-2023-09-14-203131.png"></a>
+   <a href="https://ibb.co/WnfZYS8"><img src="https://i.ibb.co/wy4VxDG/Screenshot-2023-11-12-001409.png" alt="Screenshot-2023-11-12-001409" border="0"></a>
   </div>
   <be>
   
