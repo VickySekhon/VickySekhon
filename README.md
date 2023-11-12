@@ -52,7 +52,7 @@
       <strong>Personal Experience:</strong>
       This was an extremely fun project I worked on over the course of 2 weeks. I learned fundamental HTML elements and have become familiar with advanced CSS design elements to the extent that I am confident in my abilities to use HTML and CSS for website development.
     </p>
-    <a href="https://ibb.co/hCK2Mnn"><img style = "width: 200px;" src="https://i.ibb.co/qxRmn44/Screenshot-2023-09-14-203131.png" alt="Screenshot-2023-09-14-203131"></a>
+   <a href="https://ibb.co/TbdZGdB"><img src="https://i.ibb.co/cCVP9Vc/Screenshot-2023-11-12-001747.png" alt="Screenshot-2023-11-12-001747" border="0"></a>
   </div>
   <be>
 
@@ -66,7 +66,7 @@ Created a webpage where consumers can type text and click a button to hear it re
       <strong>Personal Experience:</strong>
 This project allowed me to learn fundamental data skills as I accessed user information by using local storage to save a user's data. In addition to this, I am happy with the styling and minimalistic appearance of the webpage, it is one of my favourite projects.
     </p>
-   <a href="https://ibb.co/VH7tTz3"><img style = "width: 200px;"src="https://i.ibb.co/SQhPBMJ/Screenshot-2023-09-26-194353.png" alt="Screenshot-2023-09-26-194353" border="0"></a>
+   <a href="https://ibb.co/3s77VMt"><img src="https://i.ibb.co/g733QPs/Screenshot-2023-09-26-194353.png" alt="Screenshot-2023-09-26-194353" border="0"></a>
   </div>
   <br>
 
@@ -81,7 +81,7 @@ Created a fully functional calculator that includes ‘all-clear’, ‘delete�
       <strong>Personal Experience:</strong>
 A very enjoyable and rewarding project, I learned a lot of my JavaScript skills through this project and it led me to explore the capabilities of the language through taking the initiative to implement a light/dark mode feature.
     </p>
-   <a href="https://ibb.co/9TsJ2Xm"><img style = "width: 200px;"src="https://i.ibb.co/58BdvDX/Screenshot-2023-09-25-123453.png" alt="Screenshot-2023-09-25-123453" border="0"></a>
+   <a href="https://ibb.co/dk4m76n"><img src="https://i.ibb.co/gtZ46ws/Screenshot-2023-09-25-123453.png" alt="Screenshot-2023-09-25-123453" border="0"></a>
   </div>
   <br>
 
