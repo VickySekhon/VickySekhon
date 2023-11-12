@@ -9,9 +9,7 @@
   <p>- 🏫 I am Second-Year student @ <a href = "https://www.wlu.ca/">Wilfrid Laurier University</a></p>
   <p>- 🔭 I’m currently working on a project called <strong>InternSync</strong></p>
   <p>- 🌱 The language that I'm currently learning is <strong>JavaScript</strong></p>
-  <p>- 💬 Ask me about my <a href = "https://vickysekhon.github.io/YouTube-Clone/">YouTube Clone Project</a></p>
   <p>- ⚡ Fun fact I can solve a <strong>3x3 Rubik's cube</strong></p>
-  <p>- 📄 <a href = "https://pdfhost.io/v/GtqSG.ROG_Phone">Resume</a></p>
 
   
   
@@ -30,6 +28,20 @@
   
   
   <h1 style = "text-align: center;">Projects</h1>
+  <h3>SortingAlgorithmVisualization</h3>
+  <h5 style = "margin-bottom: 0px;">Python | Tkinter</h5>
+  <div>
+    <p style = "width: 390px; display: inline-block; vertical-align: middle;"><strong>Project Overview:</strong>
+     This project is a Sorting Algorithm Visualizer built using Python and the Tkinter library. It provides a graphical representation of various sorting algorithms, allowing users to observe and understand how each algorithm works.
+      <br>
+      <br>
+      <strong>Personal Experience:</strong>
+      This was an extremely fun project I worked on over the course of one week. I spent most of my time understanding the implementation of the selected algorithms, using pen and paper to visualize the sorting process. I then implemented all of the algorithms in code. I then learned and got some help using Tkinter and eventually created the visualization tool.
+    </p>
+    <a href="https://ibb.co/hCK2Mnn"><img style = "width: 200px;" src="https://i.ibb.co/qxRmn44/Screenshot-2023-09-14-203131.png"></a>
+  </div>
+  <be>
+  
   <h3>YouTube Clone</h3>
   <h5 style = "margin-bottom: 0px;">HTML | CSS</h5>
   <div>
