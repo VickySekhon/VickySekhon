@@ -85,6 +85,21 @@ A very enjoyable and rewarding project, I learned a lot of my JavaScript skills 
   </div>
   <br>
 
+
+<h3>Restaurant Simulator</h3>
+  <h5 style = "margin-bottom: 0px;">Java</h5>
+  <div>
+    <p style = "width: 390px; display: inline-block; vertical-align: middle;"><strong>Project Overview:</strong>
+      This restaurant simulator allows a user to create a custom menu and interact with it using an intuitive GUI from which they can print out a physical receipt. To implement this GUI, the project leverages Java's abstract classes and inheritance functionality to create a java Jframe, by calling independent classes to create functionality as well as a PrinterJob API to invoke the Windows OS printing system.
+      <br>
+      <br>
+      <strong>Personal Experience:</strong>
+      As part of my final project for a university course I am taking called 'CP213', I wanted to utilize my skills in Java to create an intuitive final project and truly make something that demonstrates my fluency in the programming language and comfortability in using it.
+    </p>
+     <a href="https://imgbb.com/"><img src="https://i.ibb.co/xhFT860/Screenshot-2023-11-30-195104.png" alt="Screenshot-2023-11-30-195104" border="0"></a>
+  </div>
+  <be>
+
   <h3>Runner</h3>
   <h5 style = "margin-bottom: 0px;">Python | Pygame</h5>
   <div>
