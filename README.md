@@ -8,7 +8,7 @@
   <h1 style = "text-align: center;">Hi 👋, I'm Vicky</h1>
   <p>- 🏫 I am Second-Year student @ <a href = "https://www.wlu.ca/">Wilfrid Laurier University</a></p>
   <p>- 🔭 I’m currently working on a project called <strong>InternSync</strong></p>
-  <p>- 🌱 The language that I'm currently learning is <strong>JavaScript</strong></p>
+  <p>- 🌱 I am currently searching for an <strong> internship </strong> to gain first-hand experience working on and growing software in a team setting
   <p>- ⚡ Fun fact I can solve a <strong>3x3 Rubik's cube</strong></p>
 
   
@@ -86,7 +86,7 @@ A very enjoyable and rewarding project, I learned a lot of my JavaScript skills 
   <br>
 
 
-  <h3><a href = "https://github.com/VickySekhon/RestaurantSimulator-/tree/next">Restaurant Simulator</a></h3>
+  <h3><a href = "https://github.com/VickySekhon/Restaurant-Simulator">Restaurant Simulator</a></h3>
   <h5 style = "margin-bottom: 0px;">Java</h5>
   <div>
     <p style = "width: 390px; display: inline-block; vertical-align: middle;"><strong>Project Overview:</strong>
