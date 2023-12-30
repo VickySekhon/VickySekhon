@@ -42,7 +42,7 @@
   </div>
   <be>
   
-  <h3><a href = "https://github.com/VickySekhon/YouTubeClone">YouTube Clone</a></h3>
+  <h3><a href = "https://vickysekhon.github.io/YouTubeClone/">YouTube Clone</a></h3>
   <h5 style = "margin-bottom: 0px;">HTML | CSS</h5>
   <div>
     <p style = "width: 390px; display: inline-block; vertical-align: middle;"><strong>Project Overview:</strong>
