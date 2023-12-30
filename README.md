@@ -36,7 +36,7 @@
       <br>
       <br>
       <strong>Personal Experience:</strong>
-      This was an extremely fun project I worked on over the course of one week. I spent most of my time understanding the implementation of the selected algorithms, using pen and paper to visualize the sorting process. I then implemented all of the algorithms in code. I then learned and got some help using Tkinter and eventually created the visualization tool.
+      This was an enjoyable project I worked on over the course of one week. I spent most of my time understanding the implementation of the selected algorithms, using pen and paper to visualize the sorting process. I then implemented all of the algorithms in the code. I then learned and got some help using Tkinter and eventually created the visualization tool.
     </p>
    <a href="https://ibb.co/WnfZYS8"><img src="https://i.ibb.co/wy4VxDG/Screenshot-2023-11-12-001409.png" alt="Screenshot-2023-11-12-001409" border="0"></a>
   </div>
@@ -50,13 +50,13 @@
       <br>
       <br>
       <strong>Personal Experience:</strong>
-      This was an extremely fun project I worked on over the course of 2 weeks. I learned fundamental HTML elements and have become familiar with advanced CSS design elements to the extent that I am confident in my abilities to use HTML and CSS for website development.
+      This was an enjoyable project I worked on over 2 weeks. I learned fundamental HTML elements and have become familiar with advanced CSS design elements to the extent that I am confident in my abilities to use HTML and CSS for website development.
     </p>
    <a href="https://ibb.co/TbdZGdB"><img src="https://i.ibb.co/cCVP9Vc/Screenshot-2023-11-12-001747.png" alt="Screenshot-2023-11-12-001747" border="0"></a>
   </div>
   <be>
 
-  <a href = "https://vickysekhon.github.io/TextToSpeech/"><h3>Text-to-Speech</h3></a>
+  <h3><a href = "https://vickysekhon.github.io/VoiceoverPrompt/">Voiceover Prompt</a></h3>
   <h5 style = "margin-bottom: 0px;">HTML | CSS | JavaScript</h5>
   <div>
     <p style = "width: 390px; display: inline-block; vertical-align: middle;"><strong>Project Overview:</strong>
@@ -64,22 +64,22 @@ Created a webpage where consumers can type text and click a button to hear it re
       <br>
       <br>
       <strong>Personal Experience:</strong>
-This project allowed me to learn fundamental data skills as I accessed user information by using local storage to save a user's data. In addition to this, I am happy with the styling and minimalistic appearance of the webpage, it is one of my favourite projects.
+This project allowed me to learn fundamental data skills as I accessed user information by using local storage to save a user's data. In addition to this, I am happy with the styling and minimalistic appearance of the webpage, it is one of my favorite projects.
     </p>
      <a href="https://ibb.co/kDvQ16T"><img src="https://i.ibb.co/rpN4sfh/Screenshot-2023-11-24-234214.png" alt="Screenshot-2023-11-24-234214" border="0"></a>
   </div>
   <br>
 
 
-  <a href = "https://vickysekhon.github.io/Calculator/"><h3>Calculator</h3></a>
+  <h3><a href = "https://vickysekhon.github.io/Calculator/">Calculator</a></h3>
   <h5 style = "margin-bottom: 0px;">HTML | CSS | JavaScript</h5>
   <div>
     <p style = "width: 390px; display: inline-block; vertical-align: middle;"><strong>Project Overview:</strong>
-Created a fully functional calculator that includes ‘all-clear’, ‘delete’, and ‘sign-switch’ buttons as special features. Utilizes CSS transform properties to create a unique hover effect on every button. Uses event listeners to track if user clicks and catches errors for invalid entries. Uses JavaScript arrow functions to create a light and dark mode feature.
+I created a fully functional calculator that includes ‘all-clear’, ‘delete’, and ‘sign-switch’ buttons as special features. Utilizes CSS transform properties to create a unique hover effect on every button. Uses event listeners to track if the user clicks and catches errors for invalid entries. It uses JavaScript arrow functions to create a light and dark mode feature.
       <br>
       <br>
       <strong>Personal Experience:</strong>
-A very enjoyable and rewarding project, I learned a lot of my JavaScript skills through this project and it led me to explore the capabilities of the language through taking the initiative to implement a light/dark mode feature.
+A very enjoyable and rewarding project, I learned a lot of my JavaScript skills through this project and it led me to explore the capabilities of the language by taking the initiative to implement a light/dark mode feature.
     </p>
    <a href="https://ibb.co/dk4m76n"><img src="https://i.ibb.co/gtZ46ws/Screenshot-2023-09-25-123453.png" alt="Screenshot-2023-09-25-123453" border="0"></a>
   </div>
@@ -90,7 +90,7 @@ A very enjoyable and rewarding project, I learned a lot of my JavaScript skills 
   <h5 style = "margin-bottom: 0px;">Java</h5>
   <div>
     <p style = "width: 390px; display: inline-block; vertical-align: middle;"><strong>Project Overview:</strong>
-      This restaurant simulator allows a user to create a custom menu and interact with it using an intuitive GUI from which they can print out a physical receipt. To implement this GUI, the project leverages Java's abstract classes and inheritance functionality to create a java Jframe, by calling independent classes to create functionality as well as a PrinterJob API to invoke the Windows OS printing system.
+      This restaurant simulator allows a user to create a custom menu and interact with it using an intuitive GUI from which they can print out a physical receipt. To implement this GUI, the project leverages Java's abstract classes and inheritance functionality to create a Java Jframe, by calling independent classes to create functionality as well as a PrinterJob API to invoke the Windows OS printing system.
       <br>
       <br>
       <strong>Personal Experience:</strong>
