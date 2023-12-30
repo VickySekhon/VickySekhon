@@ -28,7 +28,7 @@
   
   
   <h1 style = "text-align: center;">Projects</h1>
-  <h3>SortingAlgorithmVisualization</h3>
+  <h3><a href = "https://github.com/VickySekhon/SortingAlgorithmVisualizer">Sorting Algorithm Visualizer</a></h3>
   <h5 style = "margin-bottom: 0px;">Python | Tkinter</h5>
   <div>
     <p style = "width: 390px; display: inline-block; vertical-align: middle;"><strong>Project Overview:</strong>
@@ -42,7 +42,7 @@
   </div>
   <be>
   
-  <h3>YouTube Clone</h3>
+  <h3><a href = "https://github.com/VickySekhon/YouTubeClone">YouTube Clone</a></h3>
   <h5 style = "margin-bottom: 0px;">HTML | CSS</h5>
   <div>
     <p style = "width: 390px; display: inline-block; vertical-align: middle;"><strong>Project Overview:</strong>
@@ -86,7 +86,7 @@ A very enjoyable and rewarding project, I learned a lot of my JavaScript skills 
   <br>
 
 
-<h3>Restaurant Simulator</h3>
+  <h3><a href = "https://github.com/VickySekhon/RestaurantSimulator-/tree/next">Restaurant Simulator</a></h3>
   <h5 style = "margin-bottom: 0px;">Java</h5>
   <div>
     <p style = "width: 390px; display: inline-block; vertical-align: middle;"><strong>Project Overview:</strong>
@@ -99,18 +99,6 @@ A very enjoyable and rewarding project, I learned a lot of my JavaScript skills 
      <a href="https://imgbb.com/"><img src="https://i.ibb.co/xhFT860/Screenshot-2023-11-30-195104.png" alt="Screenshot-2023-11-30-195104" border="0"></a>
   </div>
   <be>
-
-  <h3>Runner</h3>
-  <h5 style = "margin-bottom: 0px;">Python | Pygame</h5>
-  <div>
-    <p style = "width: 390px; display: inline-block; vertical-align: middle;"><strong>Project Overview:</strong>
-      Created a Full-stack 2D video game using the Pygame Python library. The game involves the use of basic math and physics for the character’s movement and to keep the character within the bounds of the screen. The use of visual design elements along with audio makes the game a simple yet appealing 2D Python Game.
-      <br>
-      <br>
-      <strong>Personal Experience:</strong>
-      This project was very rewarding because I used all the code interactively. I especially enjoyed the backend of this project and was surprised at the math involved in moving the character forward. Overall, I learned how to use Pygame for game development and this project contributed to my knowledge of Python outside of data structures and sorting algorithms.
-    </p>
-    <a href="https://ibb.co/0srmh63"><img style = "width: 200px;" src="https://i.ibb.co/6XFrgT5/Screenshot-2023-09-14-205755.png" alt="Screenshot-2023-09-14-205755"></a>
   </div>
 </html>
 
