@@ -6,13 +6,13 @@
 </head>
 <body>    
   <h1 style = "text-align: center;">Hi 👋, I'm Vicky</h1>
-  <p>- 🏫 I am a Second-Year student @ <a href = "https://www.wlu.ca/">Wilfrid Laurier University</a></p>
+  <p>- 🏫 I am a second-year Computer Science student @ <a href = "https://www.wlu.ca/">Wilfrid Laurier University</a></p>
   <p>- 🌱 I am searching for an <strong> internship </strong> to gain first-hand experience working on and growing scalable software
   <p>- 🔭 I’m currently working on a project called <a href = "https://www.internsync.com/home">InternSync</a>
   <p>- ⚡ An interesting fact about me is that I enjoy <strong> speedcubing </strong> 
   
   
-  <h1 style = "text-align: center;">Connect With Me:</h1>
+  <h1 style = "text-align: center;">Let's Connect:</h1>
   <div>
     <a href = "https://www.linkedin.com/in/vicky-sekhon-515560203/">
       <img src = "https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg">
