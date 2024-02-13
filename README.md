@@ -67,7 +67,7 @@ This project allowed me to learn fundamental data skills as I accessed user info
     </p>
      <a href="https://ibb.co/kDvQ16T"><img src="https://i.ibb.co/rpN4sfh/Screenshot-2023-11-24-234214.png" alt="Screenshot-2023-11-24-234214" border="0"></a>
   </div>
-  <br>
+  
   <h3><a href = "https://github.com/VickySekhon/Restaurant-Simulator">Restaurant Simulator</a></h3>
   <h5 style = "margin-bottom: 0px;">Java</h5>
   <div>
