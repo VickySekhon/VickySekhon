@@ -69,22 +69,6 @@ This project allowed me to learn fundamental data skills as I accessed user info
   </div>
   <br>
 
-
-  <h3><a href = "https://vickysekhon.github.io/Calculator/">Calculator</a></h3>
-  <h5 style = "margin-bottom: 0px;">HTML | CSS | JavaScript</h5>
-  <div>
-    <p style = "width: 390px; display: inline-block; vertical-align: middle;"><strong>Project Overview:</strong>
-I created a fully functional calculator that includes ‘all-clear’, ‘delete’, and ‘sign-switch’ buttons as special features. Utilizes CSS transform properties to create a unique hover effect on every button. Uses event listeners to track if the user clicks and catches errors for invalid entries. It uses JavaScript arrow functions to create a light and dark mode feature.
-      <br>
-      <br>
-      <strong>Personal Experience:</strong>
-A very enjoyable and rewarding project, I learned a lot of my JavaScript skills through this project and it led me to explore the capabilities of the language by taking the initiative to implement a light/dark mode feature.
-    </p>
-   <a href="https://ibb.co/dk4m76n"><img src="https://i.ibb.co/gtZ46ws/Screenshot-2023-09-25-123453.png" alt="Screenshot-2023-09-25-123453" border="0"></a>
-  </div>
-  <br>
-
-
   <h3><a href = "https://github.com/VickySekhon/Restaurant-Simulator">Restaurant Simulator</a></h3>
   <h5 style = "margin-bottom: 0px;">Java</h5>
   <div>
