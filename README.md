@@ -67,7 +67,7 @@ This project allowed me to learn fundamental data skills as I accessed user info
   <h3><a href = "https://github.com/VickySekhon/Restaurant-Simulator">Restaurant Simulator</a></h3>
   <h5 style = "margin-bottom: 0px;">Java</h5>
   <div>
-    <p style = "width: 390px; display: inline-block; vertical-align: middle;"><strong>Project Overview:</strong>
+    <p style = "width: 50%; display: inline-block; vertical-align: middle;"><strong>Project Overview:</strong>
       This restaurant simulator allows a user to create a custom menu and interact with it using an intuitive GUI from which they can print out a physical receipt. To implement this GUI, the project leverages Java's abstract classes and inheritance functionality to create a Java Jframe, by calling independent classes to create functionality as well as a PrinterJob API to invoke the Windows OS printing system.
       <br>
       <br>
