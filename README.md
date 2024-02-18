@@ -15,7 +15,6 @@
     <li>📫 How to reach me: <a href="mailto:Thevickysekhon@gmail.com">Thevickysekhon@gmail.com</a></li>
     <li>⚡ Fun fact: I played Academy-level Soccer since I was 10</li>
   </ul>
-  <br><br>
   <h3 align="left">Connect with me:</h3>
   <p align="left">
     <a href="https://linkedin.com/in/vickysekhon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vickysekhon" height="30" width="40" /></a>
@@ -23,7 +22,6 @@
     <a href="https://www.leetcode.com/vickysekhon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vickysekhon" height="30" width="40" /></a>
     <a href="https://discord.gg/vick1947" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vick1947" height="30" width="40" /></a>
   </p>
-  <br><br>
   <h3 align="left">Languages and Tools:</h3>
   <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
