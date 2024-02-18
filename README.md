@@ -54,7 +54,7 @@
   <h3><a href = "https://vickysekhon.github.io/VoiceoverPrompt/">Voiceover Prompt</a></h3>
   <h5 style = "margin-bottom: 0px;">HTML | CSS | JavaScript</h5>
   <div>
-    <p style = "width: 390px; display: inline-block; vertical-align: middle;"><strong>Project Overview:</strong>
+    <p style = "width: 300px; display: inline-block; vertical-align: middle;"><strong>Project Overview:</strong>
 Created a webpage where consumers can type text and click a button to hear it read to them. Includes volume, speech tempo, and voice accent customizability. Features a word count with remaining characters displayed to the user. Uses local storage to store inputted text inside the browser's cache.  
       <br>
       <br>
