@@ -4,13 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Projects</title>
-  <style>
-    .project-description {
-      max-width: 300px; /* Adjust as needed */
-      display: inline-block;
-      vertical-align: middle;
-    }
-  </style>
 </head>
 <body>
   <h1 align="center">Hi 👋, I'm Vicky Sekhon</h1>
@@ -66,44 +59,67 @@
     </a>
   </p>
 
-# Projects
+  <h1 style="text-align: center;">Projects</h1>
 
-## Sorting Algorithm Visualizer
-**Python | Tkinter**
+  <div>
+    <h3><a href="https://github.com/VickySekhon/SortingAlgorithmVisualizer">Sorting Algorithm Visualizer</a></h3>
+    <h5 style="margin-bottom: 0px;">Python | Tkinter</h5>
+    <div>
+      <p class="project-description">
+        <strong>Project Overview:</strong>
+        This project is a Sorting Algorithm Visualizer built using Python and the Tkinter library. It provides a graphical representation of various sorting algorithms, allowing users to observe and understand how each algorithm works.
+        <br><br>
+        <strong>Personal Experience:</strong>
+        This was an enjoyable project I worked on over one week. I spent most of my time understanding the implementation of the selected algorithms, using pen and paper to visualize the sorting process. I then implemented all of the algorithms in the code. I then learned and got some help using Tkinter and eventually created the visualization tool.
+      </p>
+      <a href="https://ibb.co/WnfZYS8"><img src="https://i.ibb.co/wy4VxDG/Screenshot-2023-11-12-001409.png" alt="Screenshot-2023-11-12-001409" border="0"></a>
+    </div>
+  </div>
 
-**Project Overview:** This project is a Sorting Algorithm Visualizer built using Python and the Tkinter library. It provides a graphical representation of various sorting algorithms, allowing users to observe and understand how each algorithm works.
+  <div>
+    <h3><a href="https://vickysekhon.github.io/YouTubeClone/">YouTube Clone</a></h3>
+    <h5 style="margin-bottom: 0px;">HTML | CSS</h5>
+    <div>
+      <p class="project-description">
+        <strong>Project Overview:</strong>
+        Created a front-end personalized clone of YouTube inspired by the settings I use for the software. Interacted with Chrome Dev Tools to accurately represent software design elements. Created working links to YouTube videos.
+        <br><br>
+        <strong>Personal Experience:</strong>
+        This was an enjoyable project I worked on over 2 weeks. I learned fundamental HTML elements and have become familiar with advanced CSS design elements to the extent that I am confident in my abilities to use HTML and CSS for website development.
+      </p>
+      <a href="https://ibb.co/TbdZGdB"><img src="https://i.ibb.co/cCVP9Vc/Screenshot-2023-11-12-001747.png" alt="Screenshot-2023-11-12-001747" border="0"></a>
+    </div>
+  </div>
 
-**Personal Experience:** This was an enjoyable project I worked on over one week. I spent most of my time understanding the implementation of the selected algorithms, using pen and paper to visualize the sorting process. I then implemented all of the algorithms in the code. I then learned and got some help using Tkinter and eventually created the visualization tool.
+  <div>
+    <h3><a href="https://vickysekhon.github.io/VoiceoverPrompt/">Voiceover Prompt</a></h3>
+    <h5 style="margin-bottom: 0px;">HTML | CSS | JavaScript</h5>
+    <div>
+      <p class="project-description">
+        <strong>Project Overview:</strong>
+        Created a webpage where consumers can type text and click a button to hear it read to them. Includes volume, speech tempo, and voice accent customizability. Features a word count with remaining characters displayed to the user. Uses local storage to store inputted text inside the browser's cache.
+        <br><br>
+        <strong>Personal Experience:</strong>
+        This project allowed me to learn fundamental data skills as I accessed user information by using local storage to save a user's data. In addition to this, I am happy with the styling and minimalistic appearance of the webpage; it is one of my favorite projects.
+      </p>
+      <a href="https://ibb.co/kDvQ16T"><img src="https://i.ibb.co/rpN4sfh/Screenshot-2023-11-24-234214.png" alt="Screenshot-2023-11-24-234214" border="0"></a>
+    </div>
+  </div>
 
-[![Screenshot](https://i.ibb.co/wy4VxDG/Screenshot-2023-11-12-001409.png)](https://ibb.co/WnfZYS8)
-
-## YouTube Clone
-**HTML | CSS**
-
-**Project Overview:** Created a front-end personalized clone of YouTube inspired by the settings I use for the software. Interacted with Chrome Dev Tools to accurately represent software design elements. Created working links to YouTube videos.
-
-**Personal Experience:** This was an enjoyable project I worked on over 2 weeks. I learned fundamental HTML elements and have become familiar with advanced CSS design elements to the extent that I am confident in my abilities to use HTML and CSS for website development.
-
-[![Screenshot](https://i.ibb.co/cCVP9Vc/Screenshot-2023-11-12-001747.png)](https://ibb.co/TbdZGdB)
-
-## Voiceover Prompt
-**HTML | CSS | JavaScript**
-
-**Project Overview:** Created a webpage where consumers can type text and click a button to hear it read to them. Includes volume, speech tempo, and voice accent customizability. Features a word count with remaining characters displayed to the user. Uses local storage to store inputted text inside the browser's cache.
-
-**Personal Experience:** This project allowed me to learn fundamental data skills as I accessed user information by using local storage to save a user's data. In addition to this, I am happy with the styling and minimalistic appearance of the webpage; it is one of my favorite projects.
-
-[![Screenshot](https://i.ibb.co/rpN4sfh/Screenshot-2023-11-24-234214.png)](https://ibb.co/kDvQ16T)
-
-## Restaurant Simulator
-**Java**
-
-**Project Overview:** This restaurant simulator allows a user to create a custom menu and interact with it using an intuitive GUI from which they can print out a physical receipt. To implement this GUI, the project leverages Java's abstract classes and inheritance functionality to create a Java JFrame, by calling independent classes to create functionality as well as a PrinterJob API to invoke the Windows OS printing system.
-
-**Personal Experience:** As part of my final project for a university course I am taking called 'CP213', I wanted to utilize my skills in Java to create an intuitive final project and truly make something that demonstrates my fluency in the programming language and comfortability in using it.
-
-[![Screenshot](https://i.ibb.co/xhFT860/Screenshot-2023-11-30-195104.png)](https://imgbb.com/)
-
+  <div>
+    <h3><a href="https://github.com/VickySekhon/Restaurant-Simulator">Restaurant Simulator</a></h3>
+    <h5 style="margin-bottom: 0px;">Java</h5>
+    <div>
+      <p class="project-description">
+        <strong>Project Overview:</strong>
+        This restaurant simulator allows a user to create a custom menu and interact with it using an intuitive GUI from which they can print out a physical receipt. To implement this GUI, the project leverages Java's abstract classes and inheritance functionality to create a Java JFrame, by calling independent classes to create functionality as well as a PrinterJob API to invoke the Windows OS printing system.
+        <br><br>
+        <strong>Personal Experience:</strong>
+        As part of my final project for a university course I am taking called 'CP213', I wanted to utilize my skills in Java to create an intuitive final project and truly make something that demonstrates my fluency in the programming language and comfortability in using it.
+      </p>
+      <a href="https://imgbb.com/"><img src="https://i.ibb.co/xhFT860/Screenshot-2023-11-30-195104.png" alt="Screenshot-2023-11-30-195104" border="0"></a>
+    </div>
+  </div>
 
 </body>
 </html>
