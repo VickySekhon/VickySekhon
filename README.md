@@ -6,11 +6,10 @@
 </head>
 <body>    
   <h1 text-align="center", align="center">Hi 👋, I'm Vicky</h1>
-  <p>- • 🏫 I'm a Computer Science student @ <a href = "www.wlu.ca/">Wilfrid Laurier University</a></p>
-  <p>- • ⚒️ Intern @ <a href = "www.mapflow.ca/">MAPflow</a> 
-  <p>- • 📰 Senior Newsletter Chief @ <a href = "lauriercs.ca/">Laurier Computing Society</a> 
-  <p>- • 🔭 Student Representative on the Divisional Council of Faculty of Science @ <a href = "https://www.wlu.ca/about/governance/senate/divisional-councils.html">Wilfrid Laurier University</a>
-  <p>- • ⚡ Fun fact <strong> Speedcuber </strong> 
+  <p>• ⚒️ Intern @ <a href = "https://www.mapflow.ca/">MAPflow</a> 
+  <p>• 📰 Senior Newsletter Chief @ <a href = "https://lauriercs.ca/">Laurier Computing Society</a> 
+  <p>• 🔭 Student Rep on Faculty of Science Divisional Council @ <a href = "https://www.wlu.ca/about/governance/senate/divisional-councils.html">Wilfrid Laurier University</a>
+  <p>• ⚡ Fun fact <strong> I played Academy-level Soccer since I was 10 </strong> 
   
   
   <h1 style = "text-align: center;">Let's Connect:</h1>
