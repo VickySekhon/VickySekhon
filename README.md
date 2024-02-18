@@ -57,7 +57,8 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
     </a>
   </p>
-
+  <br><br>
+  <br><br>
   <h1 style="text-align: center;">Projects</h1>
 
   <div>
