@@ -5,7 +5,7 @@
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>    
-  <h1 style = "text-align: center;">Hi 👋, I'm Vicky</h1>
+  <h1 text-align="center", align="center">Hi 👋, I'm Vicky</h1>
   <p>- 🏫 I am a second-year Computer Science student @ <a href = "https://www.wlu.ca/">Wilfrid Laurier University</a></p>
   <p>- 🌱 I am searching for an <strong> internship </strong> to gain first-hand experience working on and growing scalable software
   <p>- 🔭 I’m currently working on a project called <a href = "https://www.internsync.com/home">InternSync</a>
