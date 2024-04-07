@@ -9,7 +9,7 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=vickysekhon&label=Profile%20views&color=0e75b6&style=flat" alt="vickysekhon" /> </p>
 
   <ul>
-    <li>⚒️ A Junior Developer Intern @ <a href="https://www.mapflow.ca/">MAPflow</a></li>
+    <li>⚒️ Software Developer @ <a href="https://www.mapflow.ca/">MAPflow</a></li>
     <li>📰 Senior Newsletter Chief @ <a href="https://lauriercs.ca">Laurier Computing Society</a></li>
     <li>🔭 Student Rep on Faculty of Science Divisional Council @ <a href="https://www.wlu.ca/about/governance/senate/divisional-councils.html">Wilfrid Laurier University</a></li>
     <li>📫 How to reach me: <a href="mailto:Thevickysekhon@gmail.com">Thevickysekhon@gmail.com</a></li>
