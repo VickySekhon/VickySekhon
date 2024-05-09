@@ -8,10 +8,10 @@
   <h1 align="center">Hi 👋, I'm Vicky Sekhon</h1>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=vickysekhon&label=Profile%20views&color=0e75b6&style=flat" alt="vickysekhon" /> </p>
 
-  <ul>
-    <li>⚒️ Software Developer @ <a href="https://www.mapflow.ca/">MAPflow</a></li>
-    
-    <li>📰 Senior Newsletter Chief @ <a href="https://lauriercs.ca">Laurier Computing Society</a></li>
+  
+  <p>
+    ⚒️ Software Developer @ <a href="https://www.mapflow.ca/">MAPflow</a> <br>
+    📰 Senior Newsletter Chief @ <a href="https://lauriercs.ca">Laurier Computing Society</a> <br>
     
     <li>🔭 Student Rep on Faculty of Science Divisional Council @ <a href="https://www.wlu.ca/about/governance/senate/divisional-councils.html">Wilfrid Laurier University</a></li>
     
