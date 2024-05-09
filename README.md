@@ -17,13 +17,13 @@
     <li>📫 How to reach me: <a href="mailto:Thevickysekhon@gmail.com">Thevickysekhon@gmail.com</a></li>
     <li>⚡ Fun fact: I played Academy-level Soccer since I was 10</li>
 </ul>
-
+  <br><br>
   <h3 align="left">Connect with me:</h3>
 
   <a href="https://www.linkedin.com/in/vickysekhon/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
+  <br><br>
  <!-- Languages and Tools Section -->   
   <h3 align="left">Languages and Tools:</h3>
   
