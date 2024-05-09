@@ -7,7 +7,7 @@
 <body>
   <!-- Header Section -->   
   <h3 align="center"> > Hey I'm Vicky Sekhon!</h3>
-  <h4 align="center"> A software engineer from Waterloo, Ontario</h4>
+  <p align="center"> A full-stack software developer from Waterloo, Ontario</p>
 
   <ul>
     <li>⚒️ Software Developer @ <a href="https://www.mapflow.ca/">MAPflow</a></li>
