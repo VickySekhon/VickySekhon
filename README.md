@@ -17,13 +17,13 @@
     <li>📫 How to reach me: <a href="mailto:Thevickysekhon@gmail.com">Thevickysekhon@gmail.com</a></li>
     <li>⚡ Fun fact: I played Academy-level Soccer since I was 10</li>
 </ul>
-  <br><br>
+  
   <h3 align="left">Connect with me:</h3>
 
   <a href="https://www.linkedin.com/in/vickysekhon/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <br><br>
+  
  <!-- Languages and Tools Section -->   
   <h3 align="left">Languages and Tools:</h3>
   
@@ -45,6 +45,13 @@
   
   <br>
   <br>
+  <p align="center">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MoschellaV&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MoschellaV&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+</p>
+
+<br>
+<br>
 
   <!-- Projects Section -->   
   <h1 style="text-align: center;">Projects</h1>
