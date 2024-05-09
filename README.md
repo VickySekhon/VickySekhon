@@ -23,9 +23,9 @@
     <a href="https://discord.gg/vick1947" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vick1947" height="30" width="40" /></a>
   </p>
   <h3 align="left">Languages and Tools:</h3>
-  <p align="left">
-  <img src = "![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)">
-  </p>
+  
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  
   <br><br>
   <h1 style="text-align: center;">Projects</h1>
 
