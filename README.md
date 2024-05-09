@@ -24,7 +24,7 @@
   </p>
   <h3 align="left">Languages and Tools:</h3>
   <p align="left">
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  <img src = "![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)">
   </p>
   <br><br>
   <h1 style="text-align: center;">Projects</h1>
