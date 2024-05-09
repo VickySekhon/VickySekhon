@@ -6,7 +6,7 @@
 </head>
 <body>
   <!-- Header Section -->   
-  <h1 align="center">Hi 👋, I'm Vicky Sekhon</h1>
+  <h1 align="left"> >Hey I'm Vicky Sekhon!</h1>
 
   <ul>
     <li>⚒️ Software Developer @ <a href="https://www.mapflow.ca/">MAPflow</a></li>
