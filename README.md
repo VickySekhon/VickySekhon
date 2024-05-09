@@ -9,13 +9,14 @@
   <h3 align="center"> > Hey I'm Vicky Sekhon!</h3>
   <p align="center"> A full-stack software developer from Waterloo, Ontario</p>
   <br><br>
-
+  
   <ul>
-    <li>⚒️ Software Developer @ <a href="https://www.mapflow.ca/">MAPflow</a></li>
+    <li>💻 Software Developer @ <a href="https://www.mapflow.ca/">MAPflow</a></li>
+    <li>🏫 Honours Computer Science Student with Co-op option @ <a href="https://www.wlu.ca/">Wilfrid Laurier University</a></li>
     <li>📰 Senior Newsletter Chief @ <a href="https://lauriercs.ca">Laurier Computing Society</a></li>
     <li>🔭 Student Rep on Faculty of Science Divisional Council @ <a href="https://www.wlu.ca/about/governance/senate/divisional-councils.html">Wilfrid Laurier University</a></li>
     <li>📫 How to reach me: <a href="mailto:Thevickysekhon@gmail.com">Thevickysekhon@gmail.com</a></li>
-    <li>⚡ Fun fact: I played academy-level Soccer since I was 10 years old</li>
+    <li>⚡ Fun fact: I can solve a Rubik's cube</li>
 </ul>
   
   <h3 align="left">Connect with me:</h3>
