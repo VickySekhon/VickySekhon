@@ -10,7 +10,7 @@
 
   
   <p>
-    ⚒️ Software Developer @ <a href="https://www.mapflow.ca/">MAPflow</a> <br>
+    ⚒️ Software Developer @ <a href="https://www.mapflow.ca/">MAPflow</a> <br><br>
     📰 Senior Newsletter Chief @ <a href="https://lauriercs.ca">Laurier Computing Society</a> <br>
     
     <li>🔭 Student Rep on Faculty of Science Divisional Council @ <a href="https://www.wlu.ca/about/governance/senate/divisional-councils.html">Wilfrid Laurier University</a></li>
