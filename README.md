@@ -15,7 +15,7 @@
     <li>📰 Senior Newsletter Chief @ <a href="https://lauriercs.ca">Laurier Computing Society</a></li>
     <li>🔭 Student Rep on Faculty of Science Divisional Council @ <a href="https://www.wlu.ca/about/governance/senate/divisional-councils.html">Wilfrid Laurier University</a></li>
     <li>📫 How to reach me: <a href="mailto:Thevickysekhon@gmail.com">Thevickysekhon@gmail.com</a></li>
-    <li>⚡ Fun fact: I played Academy-level Soccer since I was 10</li>
+    <li>⚡ Fun fact: I played academy-level Soccer since I was 10 years old</li>
 </ul>
   
   <h3 align="left">Connect with me:</h3>
