@@ -15,7 +15,7 @@
     <li>💻 Junior Software Developer @ <a href="https://www.mapflow.ca/">MAPflow</a></li>
     <li>🏫 Honours Computer Science Student with Co-op @ <a href="https://www.wlu.ca/">Wilfrid Laurier University</a></li>
     <li>📰 Newsletter Chief @ <a href="https://lauriercs.ca">Laurier Computing Society</a></li>
-    <li>💼 Computer Science Student Representative on the Faculty of Science Divisional Council @ <a href="https://www.wlu.ca/about/governance/senate/divisional-councils.html">Wilfrid Laurier University</a></li>
+    <li>💼 Student Representative on the Faculty of Science Divisional Council @ <a href="https://www.wlu.ca/about/governance/senate/divisional-councils.html">Wilfrid Laurier University</a></li>
     <li>📫 Contact: <a href="mailto:thevickysekhon@gmail.com">thevickysekhon@gmail.com</a></li>
     <li>⚡ Fun fact: I can solve a Rubik's cube</li>
 </ul>
