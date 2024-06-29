@@ -12,7 +12,7 @@
   <br><br>
   
   <ul>
-    <li>💻 Junior Software Developer @ <a href="https://www.mapflow.ca/">MAPflow</a></li>
+    <li>💻 Software Developer Intern @ <a href="https://www.mapflow.ca/">MAPflow</a></li>
     <li>🏫 Honours Computer Science Student with Co-op @ <a href="https://www.wlu.ca/">Wilfrid Laurier University</a></li>
     <li>📰 Newsletter Chief @ <a href="https://lauriercs.ca">Laurier Computing Society</a></li>
     <li>💼 Student Representative on the Faculty of Science Divisional Council @ <a href="https://www.wlu.ca/about/governance/senate/divisional-councils.html">Wilfrid Laurier University</a></li>
