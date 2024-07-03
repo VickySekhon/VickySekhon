@@ -11,7 +11,6 @@
   <p align="center"> A full-stack software developer from Waterloo, Ontario</p>
   <br><br>
   
- ![](https://komarev.com/ghpvc/?username=VickySekhon&abbreviated=true&color=blueviolet&style=for-the-badge)
   <ul>
     <li>💻 Software Developer Intern @ <a href="https://www.mapflow.ca/">MAPflow</a></li>
     <li>🏫 Honours Computer Science Student with Co-op @ <a href="https://www.wlu.ca/">Wilfrid Laurier University</a></li>
@@ -26,6 +25,10 @@
   <a href="https://www.linkedin.com/in/vickysekhon/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
+  <h3 align="left">GitHub Presence:</h3>
+
+  ![](https://komarev.com/ghpvc/?username=VickySekhon&abbreviated=true&color=blueviolet&style=for-the-badge)
 
  <!-- Languages and Tools Section -->   
   <h3 align="left">Languages and Tools:</h3>
