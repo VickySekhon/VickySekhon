@@ -28,7 +28,7 @@
 
   <h3 align="left">GitHub Presence:</h3>
 
-  ![](https://komarev.com/ghpvc/?username=VickySekhon&abbreviated=true&color=lightblue&style=for-the-badge)
+  ![](https://komarev.com/ghpvc/?username=VickySekhon&abbreviated=true&color=blue&style=for-the-badge)
 
  <!-- Languages and Tools Section -->   
   <h3 align="left">Languages and Tools:</h3>
