@@ -11,9 +11,9 @@
       👨‍💻 A Full-Stack Software Engineer from Waterloo, Ontario
     </p>
 
-  <div align="center">
-   <img src="https://komarev.com/ghpvc/?username=VickySekhon&abbreviated=true&color=blue&style=for-the-badge" alt="Profile views" />
- </div>
+    <div align="center">
+     <img src="https://komarev.com/ghpvc/?username=VickySekhon&abbreviated=true&color=blue&style=for-the-badge" alt="Profile views" />
+   </div>
 
   <br><br />
   <br>
@@ -28,6 +28,7 @@
 
   <br />
   <h3>More about me:</h3>
+  <hr />
   <ul>
     <li>
       👨‍🎓 Pursuing an Honours Computer Science Degree with Co-op @
@@ -53,7 +54,7 @@
   </ul>
 
   <h3 align="left">Connect with me:</h3>
-
+  <hr />
   <div align="left">
     <a href="https://www.linkedin.com/in/vickysekhon/">
       <img
@@ -65,6 +66,7 @@
   <br>
   <!-- Languages and Tools Section -->
   <h3 align="left">Languages and Tools:</h3>
+  <hr />
    <div align="center">
    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -87,6 +89,7 @@
 
   <br />
   <br />
+  <br>
   <p align="center">
     <img src="https://streak-stats.demolab.com?user=VickySekhon&theme=leafy&hide_border=true"/>
   </p>
@@ -96,7 +99,7 @@
 
   <!-- Projects Section -->
   <h1 style="text-align: center">Projects</h1>
-
+  <hr />
   <div>
     <h3>
       <a href="https://github.com/VickySekhon/SortingAlgorithmVisualizer"
