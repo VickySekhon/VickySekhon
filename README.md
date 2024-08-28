@@ -17,15 +17,24 @@
 
   <br><br />
   <br>
-  <p align="center">
-    I am Currently Working as a Software Engineer Intern @
-    <a href="https://www.tangerine.ca/en/about-us">Tangerine</a>🍊,
+  
+  <p align="center" style="font-size: 1.2em; color: #555;">
+       Currently Working as a Software Engineer Intern @ 
+       <a href="https://www.tangerine.ca/en/about-us" style="color: #ff6600; text-decoration: none;">Tangerine</a>🍊
   </p>
-  <p align="center">
-    and a Part-Time Software Developer Intern @
-    <a href="https://www.mapflow.ca/about-us">MAPflow</a>💊.
-  </p>
+     
+<div align="center" style="margin-bottom: 20px;">
+     <img src="https://static1.squarespace.com/static/5ae8cf64af20962ccb091efc/t/5d6ff0b96ee674000196eee4/1567617212253/tangerine-bank.png?format=1500w" alt="Tangerine Logo" style="width: 50%; max-width: 200px; border-radius: 10px;">
+</div>
 
+ <p align="center" style="font-size: 1.2em; color: #555;">
+     and a Part-Time Software Developer Intern @ 
+     <a href="https://www.mapflow.ca/about-us" style="color: #4CAF50; text-decoration: none;">MAPflow</a>💊
+ </p>
+ 
+ <div align="center" style="margin-bottom: 20px;">
+     <img src="https://4284c4a4.rocketcdn.me/wp-content/uploads/2022/11/mapflow-logo-bg.png" alt="Tangerine Logo" style="width: 50%; max-width: 200px; border-radius: 10px;">
+ </div>
   <br />
   <h3>More about me:</h3>
   <ul>
