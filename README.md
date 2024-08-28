@@ -28,7 +28,6 @@
 
   <br />
   <h3>More about me:</h3>
-  <hr />
   <ul>
     <li>
       👨‍🎓 Pursuing an Honours Computer Science Degree with Co-op @
@@ -54,7 +53,6 @@
   </ul>
 
   <h3 align="left">Connect with me:</h3>
-  <hr />
   <div align="left">
     <a href="https://www.linkedin.com/in/vickysekhon/">
       <img
@@ -66,7 +64,6 @@
   <br>
   <!-- Languages and Tools Section -->
   <h3 align="left">Languages and Tools:</h3>
-  <hr />
    <div align="center">
    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -99,7 +96,6 @@
 
   <!-- Projects Section -->
   <h1 style="text-align: center">Projects</h1>
-  <hr style="border: 0.4px solid #ccc; margin: 20px 0;" />
   <div>
     <h3>
       <a href="https://github.com/VickySekhon/SortingAlgorithmVisualizer"
