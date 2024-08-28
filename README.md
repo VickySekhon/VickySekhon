@@ -17,7 +17,7 @@
  </div>
   
 
-  <br />
+  <br><br />
   <p align="center">
     I am Currently Working as a Software Engineer Intern @
     <a href="https://www.tangerine.ca/en/about-us">Tangerine</a>🍊,
