@@ -22,19 +22,20 @@
        Currently Working as a Software Engineer Intern @ 
        <a href="https://www.tangerine.ca/en/about-us" style="color: #ff6600; text-decoration: none;">Tangerine</a>🍊
   </p>
-     
-<div align="center" style="margin-bottom: 20px;">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Tangerine_Bank_logo.svg/2560px-Tangerine_Bank_logo.svg.png" alt="Tangerine Logo" style="width: 50%; max-width: 200px; border-radius: 10px;">
-</div>
+  <div align="center" style="margin-bottom: 20px;">
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Tangerine_Bank_logo.svg/2560px-Tangerine_Bank_logo.svg.png" alt="Tangerine Logo" style="width: 50%; max-width: 200px; border-radius: 10px;">
+  </div>
 
- <p align="center" style="font-size: 1.2em; color: #555;">
-     and a Part-Time Software Developer Intern @ 
-     <a href="https://www.mapflow.ca/about-us" style="color: #4CAF50; text-decoration: none;">MAPflow</a>💊
- </p>
- 
- <div align="center" style="margin-bottom: 20px;">
-     <img src="https://4284c4a4.rocketcdn.me/wp-content/uploads/2022/11/mapflow-logo-bg.png" alt="Tangerine Logo" style="width: 50%; max-width: 200px; border-radius: 10px;">
- </div>
+  <br>
+
+   <p align="center" style="font-size: 1.2em; color: #555;">
+       and a Part-Time Software Developer Intern @ 
+       <a href="https://www.mapflow.ca/about-us" style="color: #4CAF50; text-decoration: none;">MAPflow</a>💊
+   </p>
+   <div align="center" style="margin-bottom: 20px;">
+       <img src="https://4284c4a4.rocketcdn.me/wp-content/uploads/2022/11/mapflow-logo-bg.png" alt="Tangerine Logo" style="width: 50%; max-width: 200px; border-radius: 10px;">
+   </div>
+   
   <br />
   <h3>More about me:</h3>
   <ul>
