@@ -58,7 +58,6 @@
   <!-- General About Section-->
   <br />
   <h3>More about me:</h3>
-  <hr/>
   <ul>
     <li>
       👨‍🎓 Pursuing an Honours Computer Science Degree with Co-op @
