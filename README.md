@@ -30,10 +30,11 @@
 
    <p align="center" style="font-size: 1.2em; color: #555;">
        and a Part-Time Software Developer Intern @ 
-       <a href="https://www.mapflow.ca/about-us" style="color: #4CAF50; text-decoration: none;">MAPflow</a>💊
    </p>
    <div align="center" style="margin-bottom: 20px;">
+      <a href="https://www.mapflow.ca/about-us" style="color: #4CAF50; text-decoration: none;">
        <img src="https://4284c4a4.rocketcdn.me/wp-content/uploads/2022/11/mapflow-logo-bg.png" alt="Tangerine Logo" style="width: 50%; max-width: 200px; border-radius: 10px;">
+      </a>
    </div>
    
   <br />
