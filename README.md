@@ -211,7 +211,7 @@
   </div>
     <div>
     <h3>
-      <a href="https://github.com/VickySekhon/Dorm-Direct">Dorm Direct</a>
+      <a href="https://github.com/VickySekhon/DormDirect">Dorm Direct</a>
     </h3>
     <h5 style="margin-bottom: 0px">
       React, Flask, Firebase, Node.js, TypeScript, Python
