@@ -11,9 +11,9 @@
       👨‍💻 A Full-Stack Software Engineer from Waterloo, Ontario
     </p>
 
-  <div align="center">
-    ![](https://komarev.com/ghpvc/?username=VickySekhon&abbreviated=true&color=blue&style=for-the-badge)
-  </div>
+  
+  ![](https://komarev.com/ghpvc/?username=VickySekhon&abbreviated=true&color=blue&style=for-the-badge)
+  
 
   <br />
   <p align="center">
