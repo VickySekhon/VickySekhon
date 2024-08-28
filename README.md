@@ -19,6 +19,7 @@
     />
   </div>
 
+  <br></br>
   <!-- Current Employment -->
   <div align="center">
     <p style="font-size: 1.2em; color: #555">
