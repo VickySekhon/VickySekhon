@@ -98,6 +98,7 @@
   <br />
   <br />
   <br>
+  <h3>GitHub Activity:</h3>
   <p align="center">
     <img src="https://streak-stats.demolab.com?user=VickySekhon&theme=leafy&hide_border=true"/>
   </p>
