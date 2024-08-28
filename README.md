@@ -12,7 +12,7 @@
     </p>
 
   <div align="center">
-   <img src="https://komarev.com/ghpvc/?username=VickySekhon&abbreviated=true&color=blue&style=for-the-badge" alt="Profile views" />
+   <img src="https://komarev.com/ghpvc/?username=VickySekhon&abbreviated=true&color=leafy&style=for-the-badge" alt="Profile views" />
  </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vickysekhon&show_icons=true&locale=en&layout=compact" alt="vickysekhon" /></p>
