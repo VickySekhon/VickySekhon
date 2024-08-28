@@ -99,7 +99,7 @@
   <br />
   <br>
   <h3>GitHub Activity:</h3>
-  <p align="center">
+  <p align="left">
     <img src="https://streak-stats.demolab.com?user=VickySekhon&theme=leafy&hide_border=true"/>
   </p>
 
