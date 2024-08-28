@@ -26,6 +26,8 @@
 
   <br>
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=leafy)
+
    <p align="center" style="font-size: 1.2em; color: #555;">
        and a Part-Time Software Developer Intern @ 
    </p>
