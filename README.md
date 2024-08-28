@@ -214,7 +214,7 @@
       <a href="https://github.com/VickySekhon/DormDirect">Dorm Direct</a>
     </h3>
     <h5 style="margin-bottom: 0px">
-      React, Flask, Firebase, Node.js, TypeScript, Python
+      React | Flask | Firebase | Node.js | TypeScript | Python
     </h5>
     <div>
       <p class="project-description">
@@ -252,8 +252,7 @@
         <a href="https://github.com/VickySekhon/NoteEase">NoteEase</a>
       </h3>
       <h5 style="margin-bottom: 0px">
-        Tensor Flow, Google Cloud, Google Gemini, MongoDB, React, Express,
-        Node.js
+        Tensor Flow | Google Cloud | Google Gemini | MongoDB | React | Express | Node.js
       </h5>
       <div>
         <p class="project-description">
@@ -276,6 +275,37 @@
         <a href="https://imgbb.com/"
           ><img
             src="https://raw.githubusercontent.com/VickySekhon/NoteEase/main/landingpage.png"
+            alt="Screenshot-2023-11-30-195104"
+            width="700px"
+        /></a>
+      </div>
+    </div>
+  <div>
+        <div>
+      <h3>
+        <a href="https://github.com/VickySekhon/neetcode-roadmap">My LeetCodes</a>
+      </h3>
+      <h5 style="margin-bottom: 0px">
+        Python | Java | TypeScript
+      </h5>
+      <div>
+        <p class="project-description">
+          <strong>Project Overview:</strong>
+          Learning DSAs is extremely important to become a good developer, as many 
+          coding interviews nowadays often assess a candidate's technical ability
+          through the extent to which they can solve LeetCode Styled questions.  
+          <br /><br />
+          <strong>Personal Experience:</strong>
+          As someone who enjoys programming, I love coding and the excitment of 
+          completing a question successfully. Although Python is the language I am
+          most comfortable with, solving a variety of questions in Python has allowed
+          me utilize built-in Python functionalities I did not yet know of. I think 
+          this is an extremely effective way of learning the ins and outs of a 
+          programming language, while developing an understanding of fundamental coding DSAs.
+        </p>
+        <a href="https://imgbb.com/"
+          ><img
+            src="https://github.com/user-attachments/assets/19eeb4ac-ce0f-4ee4-848e-b4808423c1c6"
             alt="Screenshot-2023-11-30-195104"
             width="700px"
         /></a>
