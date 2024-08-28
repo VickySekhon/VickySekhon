@@ -19,10 +19,11 @@
   
   <p align="center" style="font-size: 1.2em; color: #555;">
        I am Currently Working as a Software Engineer Intern @ 
-       <a href="https://www.tangerine.ca/en/about-us" style="color: #ff6600; text-decoration: none;">Tangerine</a>🍊
   </p>
   <div align="center" style="margin-bottom: 20px;">
+  <a href="https://www.tangerine.ca/en/about-us" style="color: #ff6600; text-decoration: none;">
        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Tangerine_Bank_logo.svg/2560px-Tangerine_Bank_logo.svg.png" alt="Tangerine Logo" style="width: 50%; max-width: 200px; border-radius: 10px;">
+  </a>
   </div>
 
   <br>
