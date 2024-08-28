@@ -15,6 +15,9 @@
    <img src="https://komarev.com/ghpvc/?username=VickySekhon&abbreviated=true&color=blue&style=for-the-badge" alt="Profile views" />
  </div>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vickysekhon&show_icons=true&locale=en&layout=compact" alt="vickysekhon" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vickysekhon&show_icons=true&locale=en" alt="vickysekhon" /></p>
   <br><br />
   
   <p align="center" style="font-size: 1.2em; color: #555;">
