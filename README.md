@@ -16,10 +16,9 @@
  </div>
 
   <br><br />
-  <br>
   
   <p align="center" style="font-size: 1.2em; color: #555;">
-       Currently Working as a Software Engineer Intern @ 
+       I am Currently Working as a Software Engineer Intern @ 
        <a href="https://www.tangerine.ca/en/about-us" style="color: #ff6600; text-decoration: none;">Tangerine</a>🍊
   </p>
   <div align="center" style="margin-bottom: 20px;">
