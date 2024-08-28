@@ -99,7 +99,7 @@
 
   <!-- Projects Section -->
   <h1 style="text-align: center">Projects</h1>
-  <hr />
+  <hr style="border: 0.4px solid #ccc; margin: 20px 0;" />
   <div>
     <h3>
       <a href="https://github.com/VickySekhon/SortingAlgorithmVisualizer"
