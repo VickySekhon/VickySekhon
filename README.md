@@ -296,12 +296,12 @@
           through the extent to which they can solve LeetCode Styled questions.  
           <br /><br />
           <strong>Personal Experience:</strong>
-          As someone who enjoys programming, I love coding and the excitment of 
-          completing a question successfully. Although Python is the language I am
-          most comfortable with, solving a variety of questions in Python has allowed
-          me utilize built-in Python functionalities I did not yet know of. I think 
-          this is an extremely effective way of learning the ins and outs of a 
-          programming language, while developing an understanding of fundamental coding DSAs.
+          As someone who enjoys programming, I love coding and by regularly solving 
+          questions, I have been able to sharpen my technical abilities. For example, 
+          although Python is the language I am most comfortable with, by using Python to solve a variety 
+          of questions, I have used countless built-in Python functionalities I did not know about. 
+          I think this is an extremely effective way of developing an understanding of a 
+          programming language, while simultaneously learning fundamnetal DSAs.
         </p>
         <a href="https://imgbb.com/"
           ><img
