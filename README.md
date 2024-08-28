@@ -177,7 +177,7 @@
   </div>
 
   <!-- Projects Section -->
-  <h3 style="text-align: center">Projects</h3>
+  <h3 style="text-align: center">Projects:</h3>
   <div>
     <h3>
       <a href="https://github.com/VickySekhon/SortingAlgorithmVisualizer"
