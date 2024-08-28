@@ -7,6 +7,7 @@
 <body>
   <!-- Header Section -->
   <h3 align="center"> Hey I'm Vicky Sekhon!</h3>
+  <hr />
   <p align="center">
     👨‍💻 A Full-Stack Software Engineer from Waterloo, Ontario
   </p>
