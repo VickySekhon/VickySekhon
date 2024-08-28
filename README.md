@@ -6,7 +6,7 @@
 </head>
 <body>
   <!-- Header Section -->
-  <h3 align="center" margin="0px"> Hey I'm Vicky Sekhon!</h3>
+  <h2 align="center" margin="0px"> Hey I'm Vicky Sekhon!</h2>
   <hr />
   <p align="center">
     👨‍💻 A Full-Stack Software Engineer from Waterloo, Ontario
