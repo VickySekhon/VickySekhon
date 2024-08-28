@@ -94,7 +94,6 @@
    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
    </div>
 
-  <br>
   <h3>GitHub Activity:</h3>
   <p align="left">
     <img src="https://streak-stats.demolab.com?user=VickySekhon&theme=leafy&hide_border=true"/>
