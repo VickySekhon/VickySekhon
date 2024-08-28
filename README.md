@@ -102,9 +102,6 @@
     <img src="https://streak-stats.demolab.com?user=VickySekhon&theme=leafy&hide_border=true"/>
   </p>
 
-  <br />
-  <br />
-
   <!-- Projects Section -->
   <h1 style="text-align: center">Projects</h1>
   <div>
