@@ -6,7 +6,7 @@
 </head>
 <body>
   <!-- Header Section -->
-  <h2 align="center">> Hey I'm Vicky Sekhon!</h2>
+  <h1 align="center">> Hey I'm Vicky Sekhon!</h1>
   <p align="center">
     👨‍💻 A Full-Stack Software Engineer from Waterloo, Ontario
   </p>
@@ -58,6 +58,7 @@
   <!-- General About Section-->
   <br />
   <h3>More about me:</h3>
+  <hr/>
   <ul>
     <li>
       👨‍🎓 Pursuing an Honours Computer Science Degree with Co-op @
