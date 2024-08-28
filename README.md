@@ -209,7 +209,78 @@
       /></a>
     </div>
   </div>
-
+    <div>
+    <h3>
+      <a href="https://github.com/VickySekhon/Dorm-Direct">Dorm Direct</a>
+    </h3>
+    <h5 style="margin-bottom: 0px">
+      React, Flask, Firebase, Node.js, TypeScript, Python
+    </h5>
+    <div>
+      <p class="project-description">
+        <strong>Project Overview:</strong>
+        DormDirect uses a BeautifulSoup Web Scrapper to scrape listings from 3
+        popular listing searches on Kijiji (1 => "Student housing waterloo", 2
+        => "Wilfrid Laurier University housing", 3 => "University of Waterloo
+        housing"). Once the listings are scrapped, they are contained within a
+        Flask backend that Jsonifies the fetched listing information and makes
+        it available at an API endpoint. The React frontend retrieves the
+        jsonified listing content from the endpoint and displays it in a clean
+        way.
+        <br /><br />
+        <strong>Personal Experience:</strong>
+        Navigating between schoolwork, tuition fees, and internships is
+        already difficult enough for university students. Looking for housing
+        becomes strenuous, especially between work and school terms. That's
+        why I felt the need to build DormDirect to streamline the process of
+        finding listings for university students in Waterloo. All of us are
+        Co-op students which means we're constantly looking for housing
+        between work terms and we thought to build a platform that will help
+        us do this.
+      </p>
+      <a href="https://imgbb.com/"
+        ><img
+          src="https://private-user-images.githubusercontent.com/78521390/354785643-bc1f1bda-feaf-42a3-8b9c-c1896ff20e61.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ4MDgxODEsIm5iZiI6MTcyNDgwNzg4MSwicGF0aCI6Ii83ODUyMTM5MC8zNTQ3ODU2NDMtYmMxZjFiZGEtZmVhZi00MmEzLThiOWMtYzE4OTZmZjIwZTYxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODI4VDAxMTgwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ1ZDg3MmMzZDgzMDQ0NTE4OTZiMTk2ZWM1OThhZmMyNTUwZDIwNzdiYzhmZmE0OTViNzQwZmUyMzkzMGY1YzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.GvTWt0mmIjZZzPegiTUR8Ew5ykQwMiIJJjfe8QPDhe8"
+          alt="Screenshot-2023-11-30-195104"
+          width="700px"
+      /></a>
+    </div>
+  </div>
+  <div>
+    <div>
+      <h3>
+        <a href="https://github.com/VickySekhon/NoteEase">NoteEase</a>
+      </h3>
+      <h5 style="margin-bottom: 0px">
+        Tensor Flow, Google Cloud, Google Gemini, MongoDB, React, Express,
+        Node.js
+      </h5>
+      <div>
+        <p class="project-description">
+          <strong>Project Overview:</strong>
+          Note Ease allows students the flexibility to listen to their profs
+          while having AI assist and listen to the in class lecture readings to
+          develop a transcript. During the developing of the transcript the user
+          has the opportunity to format the notes to their liking by using
+          Tensor Flow embedded into the website which tracks the students hand
+          movement to add the indentation or the bullet point of the students
+          choosing rather than manually type it out
+          <br /><br />
+          <strong>Personal Experience:</strong>
+          Overall, my team and I  learned how to properly use the MERN stack to
+          develop a web application and how to use react in terms of syntax both
+          front end and back end. We've also been able to successfully use API
+          with the help of Google Cloud, and further learned what TensorFlow is
+          used for and embedded it on our site.
+        </p>
+        <a href="https://imgbb.com/"
+          ><img
+            src="https://raw.githubusercontent.com/VickySekhon/NoteEase/main/landingpage.png"
+            alt="Screenshot-2023-11-30-195104"
+            width="700px"
+        /></a>
+      </div>
+    </div>
   <div>
     <h3>
       <a href="https://vickysekhon.github.io/YouTubeClone/">YouTube Clone</a>
@@ -268,45 +339,6 @@
       /></a>
     </div>
   </div>
-
-  <div>
-    <h3>
-      <a href="https://github.com/VickySekhon/Dorm-Direct">Dorm Direct</a>
-    </h3>
-    <h5 style="margin-bottom: 0px">
-      React, Flask, Firebase, Node.js, TypeScript, Python
-    </h5>
-    <div>
-      <p class="project-description">
-        <strong>Project Overview:</strong>
-        DormDirect uses a BeautifulSoup Web Scrapper to scrape listings from 3
-        popular listing searches on Kijiji (1 => "Student housing waterloo", 2
-        => "Wilfrid Laurier University housing", 3 => "University of Waterloo
-        housing"). Once the listings are scrapped, they are contained within a
-        Flask backend that Jsonifies the fetched listing information and makes
-        it available at an API endpoint. The React frontend retrieves the
-        jsonified listing content from the endpoint and displays it in a clean
-        way.
-        <br /><br />
-        <strong>Personal Experience:</strong>
-        Navigating between schoolwork, tuition fees, and internships is
-        already difficult enough for university students. Looking for housing
-        becomes strenuous, especially between work and school terms. That's
-        why I felt the need to build DormDirect to streamline the process of
-        finding listings for university students in Waterloo. All of us are
-        Co-op students which means we're constantly looking for housing
-        between work terms and we thought to build a platform that will help
-        us do this.
-      </p>
-      <a href="https://imgbb.com/"
-        ><img
-          src="https://private-user-images.githubusercontent.com/78521390/354785643-bc1f1bda-feaf-42a3-8b9c-c1896ff20e61.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ4MDgxODEsIm5iZiI6MTcyNDgwNzg4MSwicGF0aCI6Ii83ODUyMTM5MC8zNTQ3ODU2NDMtYmMxZjFiZGEtZmVhZi00MmEzLThiOWMtYzE4OTZmZjIwZTYxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODI4VDAxMTgwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ1ZDg3MmMzZDgzMDQ0NTE4OTZiMTk2ZWM1OThhZmMyNTUwZDIwNzdiYzhmZmE0OTViNzQwZmUyMzkzMGY1YzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.GvTWt0mmIjZZzPegiTUR8Ew5ykQwMiIJJjfe8QPDhe8"
-          alt="Screenshot-2023-11-30-195104"
-          width="700px"
-      /></a>
-    </div>
-  </div>
-  <div>
     <h3>
       <a href="https://github.com/VickySekhon/Restaurant-Simulator"
         >Restaurant Simulator</a
