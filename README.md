@@ -11,13 +11,12 @@
       👨‍💻 A Full-Stack Software Engineer from Waterloo, Ontario
     </p>
 
-
-  <div align="center">
-   <img src="https://komarev.com/ghpvc/?username=VickySekhon&abbreviated=true&color=blue&style=for-the-badge" alt="Profile views" />
- </div>
-  
+    <div align="center">
+     <img src="https://komarev.com/ghpvc/?username=VickySekhon&abbreviated=true&color=blue&style=for-the-badge" alt="Profile views" />
+   </div>
 
   <br><br />
+  <br>
   <p align="center">
     I am Currently Working as a Software Engineer Intern @
     <a href="https://www.tangerine.ca/en/about-us">Tangerine</a>🍊,
@@ -53,9 +52,9 @@
     <li>⚡ Fun fact: I can solve a 3x3 Rubik's cube.</li>
   </ul>
 
-  <h3 align="center">Connect with me:</h3>
+  <h3 align="left">Connect with me:</h3>
 
-  <div align="center">
+  <div align="left">
     <a href="https://www.linkedin.com/in/vickysekhon/">
       <img
         src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -65,6 +64,7 @@
 
   <br>
   <!-- Languages and Tools Section -->
+  <h3 align="left">Languages and Tools:</h3>
    <div align="center">
    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
