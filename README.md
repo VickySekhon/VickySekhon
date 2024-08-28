@@ -24,7 +24,7 @@
   </p>
      
 <div align="center" style="margin-bottom: 20px;">
-     <img src="https://static1.squarespace.com/static/5ae8cf64af20962ccb091efc/t/5d6ff0b96ee674000196eee4/1567617212253/tangerine-bank.png?format=1500w" alt="Tangerine Logo" style="width: 50%; max-width: 200px; border-radius: 10px;">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Tangerine_Bank_logo.svg/2560px-Tangerine_Bank_logo.svg.png" alt="Tangerine Logo" style="width: 50%; max-width: 200px; border-radius: 10px;">
 </div>
 
  <p align="center" style="font-size: 1.2em; color: #555;">
