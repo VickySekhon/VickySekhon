@@ -241,7 +241,6 @@
       <a
         ><img
           src=![image](https://github.com/user-attachments/assets/d6d94365-2ef8-43fa-860e-82c614729879)
-
           alt="Condominium buildings behind the heading 'dorm direct'"
           width="700px"
       /></a>
