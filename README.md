@@ -238,10 +238,11 @@
         between work terms and we thought to build a platform that will help
         us do this.
       </p>
-      <a href="https://imgbb.com/"
+      <a
         ><img
-          src="https://private-user-images.githubusercontent.com/78521390/354785643-bc1f1bda-feaf-42a3-8b9c-c1896ff20e61.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ4MDgxODEsIm5iZiI6MTcyNDgwNzg4MSwicGF0aCI6Ii83ODUyMTM5MC8zNTQ3ODU2NDMtYmMxZjFiZGEtZmVhZi00MmEzLThiOWMtYzE4OTZmZjIwZTYxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODI4VDAxMTgwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ1ZDg3MmMzZDgzMDQ0NTE4OTZiMTk2ZWM1OThhZmMyNTUwZDIwNzdiYzhmZmE0OTViNzQwZmUyMzkzMGY1YzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.GvTWt0mmIjZZzPegiTUR8Ew5ykQwMiIJJjfe8QPDhe8"
-          alt="Screenshot-2023-11-30-195104"
+          src=![image](https://github.com/user-attachments/assets/d6d94365-2ef8-43fa-860e-82c614729879)
+
+          alt="Condominium buildings behind the heading 'dorm direct'"
           width="700px"
       /></a>
     </div>
