@@ -28,8 +28,13 @@
     <a href="https://www.mapflow.ca/about-us">
       <img
         src="https://4284c4a4.rocketcdn.me/wp-content/uploads/2022/11/mapflow-logo-bg.png"
-        alt="Mapflow Logo"
-        style="width: 30%; max-width: 200px; border-radius: 10px; margin-bottom: 20px;"
+        alt="Tangerine Logo"
+        style="
+          width: 30%;
+          max-width: 200px;
+          border-radius: 10px;
+          margin-bottom: 20px;
+        "
       />
     </a>
     <p style="font-size: 1.2em; color: #555; margin: 0;">
@@ -39,7 +44,12 @@
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Tangerine_Bank_logo.svg/2560px-Tangerine_Bank_logo.svg.png"
         alt="Tangerine Logo"
-        style="width: 30%; max-width: 200px; border-radius: 10px; margin-bottom: 20px;"
+        style="
+          width: 30%;
+          max-width: 200px;
+          border-radius: 10px;
+          margin-bottom: 20px;
+        "
       />
     </a>
   </div>
