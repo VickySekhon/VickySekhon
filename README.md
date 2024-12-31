@@ -74,10 +74,6 @@
         >Wilfrid Laurier University</a
       >.
     </li>
-    <li>
-      📫 Contact:
-      <a href="mailto:Vickysekhon1@outlook.com">Vickysekhon1@outlook.com</a>.
-    </li>
     <li>⚡ Fun fact: I can solve a 3x3 Rubik's cube.</li>
   </ul>
 
