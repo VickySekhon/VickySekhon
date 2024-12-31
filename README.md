@@ -39,7 +39,7 @@
     </a>
     <br />
     <p style="font-size: 1.2em; color: #555">
-      I am an Ex-Software Engineer Intern @
+      I was previously a Software Engineer Intern @
     </p>
     <a href="https://www.tangerine.ca/en/about-us">
       <img
