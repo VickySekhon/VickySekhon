@@ -8,7 +8,7 @@
   <!-- Header Section -->
   <h2 align="center">> Hey I'm Vicky Sekhon!</h2>
   <p align="center">
-    👨‍💻 A Full-Stack Software Engineer from Waterloo, Ontario
+    👨‍💻 A Full-Stack Software Engineer
   </p>
 
   <!-- Profile Views -->
@@ -39,7 +39,7 @@
     </a>
     <br />
     <p style="font-size: 1.2em; color: #555">
-      and a Part-Time Software Developer Intern @
+      I am Currently Working as a Software Developer Intern @
     </p>
     <a href="https://www.mapflow.ca/about-us">
       <img
