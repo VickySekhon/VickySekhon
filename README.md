@@ -23,11 +23,11 @@
   <!-- Current Employment -->
   <div align="center">
     <p style="font-size: 1.2em; color: #555">
-      I am Currently Working as a Software Engineer Intern @
+      I am Currently Working as a Software Developer Intern @
     </p>
-    <a href="https://www.tangerine.ca/en/about-us">
+    <a href="https://www.mapflow.ca/about-us">
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Tangerine_Bank_logo.svg/2560px-Tangerine_Bank_logo.svg.png"
+        src="https://4284c4a4.rocketcdn.me/wp-content/uploads/2022/11/mapflow-logo-bg.png"
         alt="Tangerine Logo"
         style="
           width: 50%;
@@ -39,11 +39,11 @@
     </a>
     <br />
     <p style="font-size: 1.2em; color: #555">
-      I am Currently Working as a Software Developer Intern @
+      I am an Ex-Software Engineer Intern @
     </p>
-    <a href="https://www.mapflow.ca/about-us">
+    <a href="https://www.tangerine.ca/en/about-us">
       <img
-        src="https://4284c4a4.rocketcdn.me/wp-content/uploads/2022/11/mapflow-logo-bg.png"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Tangerine_Bank_logo.svg/2560px-Tangerine_Bank_logo.svg.png"
         alt="Tangerine Logo"
         style="
           width: 50%;
