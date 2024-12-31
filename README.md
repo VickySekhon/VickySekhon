@@ -46,7 +46,7 @@
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Tangerine_Bank_logo.svg/2560px-Tangerine_Bank_logo.svg.png"
         alt="Tangerine Logo"
         style="
-          width: 50%;
+          width: 20%;
           max-width: 200px;
           border-radius: 10px;
           margin-bottom: 20px;
