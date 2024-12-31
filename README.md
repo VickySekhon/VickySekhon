@@ -21,7 +21,7 @@
 
   <br></br>
   <!-- Current Employment -->
-  <div style="text-align: center;">
+  <div align="center">
     <p style="font-size: 1.2em; color: #555; margin: 0;">
       I am Currently Working as a Software Developer Intern @
     </p>
