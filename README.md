@@ -22,7 +22,7 @@
   <br></br>
   <!-- Current Employment -->
   <div align="center">
-    <p style="font-size: 1.2em; color: #555">
+    <p style="font-size: 1.2em; color: #555; margin: 0;">
       I am Currently Working as a Software Developer Intern @
     </p>
     <a href="https://www.mapflow.ca/about-us">
