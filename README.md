@@ -30,7 +30,7 @@
         src="https://4284c4a4.rocketcdn.me/wp-content/uploads/2022/11/mapflow-logo-bg.png"
         alt="Tangerine Logo"
         style="
-          width: 50%;
+          width: 30%;
           max-width: 200px;
           border-radius: 10px;
           margin-bottom: 20px;
@@ -46,7 +46,7 @@
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Tangerine_Bank_logo.svg/2560px-Tangerine_Bank_logo.svg.png"
         alt="Tangerine Logo"
         style="
-          width: 20%;
+          width: 30%;
           max-width: 200px;
           border-radius: 10px;
           margin-bottom: 20px;
