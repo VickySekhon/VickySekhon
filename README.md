@@ -37,7 +37,7 @@
         "
       />
     </a>
-    <img src="https://ibb.co/XDgMJc6">
+    <a href="https://ibb.co/XDgMJc6"><img src="https://i.ibb.co/7Q5LysB/pngimg-com-dot-PNG11.png" alt="pngimg-com-dot-PNG11" border="0"></a>
     <p style="font-size: 1.2em; color: #555; margin: 0;">
       I was previously a Software Engineer Intern @
     </p>
