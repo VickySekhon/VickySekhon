@@ -39,7 +39,7 @@
     </a>
     <div>
       <a href="https://ibb.co/XDgMJc6">
-        <img src="https://i.ibb.co/7Q5LysB/pngimg-com-dot-PNG11.png" alt="pngimg-com-dot-PNG11" border="0" style="width:10%">
+        <img src="https://i.ibb.co/7Q5LysB/pngimg-com-dot-PNG11.png" alt="pngimg-com-dot-PNG11" border="0" style="width:3%">
       </a>
     </div>
     <p style="font-size: 1.2em; color: #555; margin: 0;">
