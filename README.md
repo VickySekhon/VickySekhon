@@ -37,20 +37,6 @@
         "
       />
     </a>
-    <ul>
-      <li>•</li>
-      <br/>
-      <li>•</li>
-      <br/>
-      <li>•</li>
-      <br/>
-      <li>•</li>
-      <br/>
-      <li>•</li>
-      <br/>
-      <li>•</li>
-      <br/>
-    </ul>
     <p style="font-size: 1.2em; color: #555; margin: 0;">
       I was previously a Software Engineer Intern @
     </p>
