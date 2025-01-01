@@ -37,6 +37,7 @@
         "
       />
     </a>
+    <img src="https://pngimg.com/d/dot_PNG11.png">
     <p style="font-size: 1.2em; color: #555; margin: 0;">
       I was previously a Software Engineer Intern @
     </p>
