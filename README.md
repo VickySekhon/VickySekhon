@@ -39,6 +39,10 @@
     </a>
     <div>
         <img src="https://i.ibb.co/7Q5LysB/pngimg-com-dot-PNG11.png" alt="pngimg-com-dot-PNG11" border="0" style="width:3%">
+        <img src="https://i.ibb.co/7Q5LysB/pngimg-com-dot-PNG11.png" alt="pngimg-com-dot-PNG11" border="0" style="width:3%">
+        <img src="https://i.ibb.co/7Q5LysB/pngimg-com-dot-PNG11.png" alt="pngimg-com-dot-PNG11" border="0" style="width:3%">
+        <img src="https://i.ibb.co/7Q5LysB/pngimg-com-dot-PNG11.png" alt="pngimg-com-dot-PNG11" border="0" style="width:3%">
+        <img src="https://i.ibb.co/7Q5LysB/pngimg-com-dot-PNG11.png" alt="pngimg-com-dot-PNG11" border="0" style="width:3%">
     </div>
     <p style="font-size: 1.2em; color: #555; margin: 0;">
       I was previously a Software Engineer Intern @
