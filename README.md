@@ -189,10 +189,10 @@
         algorithm works.
         <br /><br />
         <strong>Personal Experience:</strong>
-        This was an enjoyable project I worked on over one week. I spent most
+        This was an enjoyable project I worked on during the course of a week. I spent most
         of my time understanding the implementation of the selected
-        algorithms, using pen and paper to visualize the sorting process. I
-        then implemented all of the algorithms in the code. I then learned and
+        algorithms, using pen and paper to visualize the sorting process. Then I
+        implemented all of the algorithms in the code. I then learned and
         got some help using Tkinter and eventually created the visualization
         tool.
       </p>
@@ -215,17 +215,17 @@
       <p class="project-description">
         <strong>Project Overview:</strong>
         DormDirect uses a BeautifulSoup Web Scrapper to scrape listings from 3
-        popular listing searches on Kijiji (1 => "Student housing waterloo", 2
+        popular listing searches on Kijiji (1 => "Student housing Waterloo", 2
         => "Wilfrid Laurier University housing", 3 => "University of Waterloo
         housing"). Once the listings are scrapped, they are contained within a
-        Flask backend that Jsonifies the fetched listing information and makes
+        Flask backend that JSONifies the fetched listing information and makes
         it available at an API endpoint. The React frontend retrieves the
-        jsonified listing content from the endpoint and displays it in a clean
+        JSONified listing content from the endpoint and displays it in a clean
         way.
         <br /><br />
         <strong>Personal Experience:</strong>
         Navigating between schoolwork, tuition fees, and internships is
-        already difficult enough for university students. Looking for housing
+        already difficult enough for university students. Looking for Housing
         becomes strenuous, especially between work and school terms. That's
         why I felt the need to build DormDirect to streamline the process of
         finding listings for university students in Waterloo. All of us are
@@ -253,10 +253,10 @@
         <p class="project-description">
           <strong>Project Overview:</strong>
           Note Ease allows students the flexibility to listen to their profs
-          while having AI assist and listen to the in class lecture readings to
-          develop a transcript. During the developing of the transcript the user
+          while having AI assist and listen to the in-class lecture readings to
+          develop a transcript. During the development of the transcript the user
           has the opportunity to format the notes to their liking by using
-          Tensor Flow embedded into the website which tracks the students hand
+          TensorFlow embedded into the website tracks the student's hand
           movement to add the indentation or the bullet point of the students
           choosing rather than manually type it out
           <br /><br />
