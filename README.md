@@ -206,18 +206,17 @@
     <div>
       <p class="project-description">
         <strong>Project Overview:</strong>
-        This project is a Sorting Algorithm Visualizer built using Python and
-        the Tkinter library. It provides a graphical representation of various
-        sorting algorithms, allowing users to observe and understand how each
+        Sorting Algorithm Visualizer features 6 algorithms: Shell Sort, Merge Sort, Selection Sort, Insertion Sort, Quick Sort, and Bubble Sort.
+        It is built using Python and Tkinter for the GUI. The objective was to visually represent various
+        sorting algorithms, allowing users to understand and observe how each
         algorithm works.
         <br /><br />
         <strong>Personal Experience:</strong>
-        This was an enjoyable project I worked on during the course of a week. I spent most
+        This was an enjoyable project I worked on for a week. I spent most
         of my time understanding the implementation of the selected
         algorithms, using pen and paper to visualize the sorting process. Then I
-        implemented all of the algorithms in the code. I then learned and
-        got some help using Tkinter and eventually created the visualization
-        tool.
+        implemented all of the algorithms in the code. Afterward, I found Tkinter and eventually tinkered around to create the visualization
+        part of the project.
       </p>
       <a href="https://ibb.co/WnfZYS8"
         ><img
@@ -275,20 +274,14 @@
       <div>
         <p class="project-description">
           <strong>Project Overview:</strong>
-          Note Ease allows students the flexibility to listen to their profs
-          while having AI assist and listen to the in-class lecture readings to
-          develop a transcript. During the development of the transcript the user
+          Note Ease allows students the flexibility to listen to their Professors
+          while having AI assist them in retaining lecture content by developing a summarized transcript of key lecture material. During the development of the transcript the user
           has the opportunity to format the notes to their liking by using
-          TensorFlow embedded into the website tracks the student's hand
-          movement to add the indentation or the bullet point of the students
-          choosing rather than manually type it out
+          TensorFlow object detection to signify the need for a new bullet point.
           <br /><br />
           <strong>Personal Experience:</strong>
-          Overall, my team and I  learned how to properly use the MERN stack to
-          develop a web application and how to use react in terms of syntax both
-          front end and back end. We've also been able to successfully use API
-          with the help of Google Cloud, and further learned what TensorFlow is
-          used for and embedded it on our site.
+          Overall, my team and I  learned how to use the MERN stack to
+          develop a web application. This was a hackathon project where we won Best Use of AI in Education at GDSC Hacks 2024.
         </p>
         <a href="https://imgbb.com/"
           ><img
@@ -319,7 +312,7 @@
           although Python is the language I am most comfortable with, by using Python to solve a variety 
           of questions, I have used countless built-in Python functionalities I did not know about. 
           I think this is an extremely effective way of developing an understanding of a 
-          programming language, while simultaneously learning fundamnetal DSAs.
+          programming language, while simultaneously learning fundamental DSAs.
         </p>
         <a href="https://imgbb.com/"
           ><img
@@ -346,7 +339,7 @@
         This was an enjoyable project I worked on over 2 weeks. I learned
         fundamental HTML elements and have become familiar with advanced CSS
         design elements to the extent that I am confident in my abilities to
-        use HTML and CSS for website development.
+        use HTML and CSS for static web development.
       </p>
       <a href="https://ibb.co/TbdZGdB"
         ><img
@@ -404,10 +397,7 @@
         as a PrinterJob API to invoke the Windows OS printing system.
         <br /><br />
         <strong>Personal Experience:</strong>
-        As part of my final project for a university course I am taking called
-        'CP213', I wanted to utilize my skills in Java to create an intuitive
-        final project and truly make something that demonstrates my fluency in
-        the programming language and comfortability in using it.
+        As part of my final project for CP213 (Object-Oriented Programming), I wanted to utilize my skills in Java and create a GUI project.
       </p>
       <a href="https://imgbb.com/"
         ><img
