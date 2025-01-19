@@ -6,7 +6,7 @@
 </head>
 <body>
   <!-- Header Section -->
-  https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+I'm+Vicky+Sekhon;I'm+a+Software+Developer+at+MAPflow;I+was+previously+a+Software+Engineer+at+Tangerine
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+I'm+Vicky+Sekhon;I'm+a+Software+Developer+at+MAPflow;I+was+previously+a+Software+Engineer+at+Tangerine" alt="Typing SVG" /></a>
   <hr/>
   <p align="center">
     👨‍💻 A Full-Stack Software Engineer
