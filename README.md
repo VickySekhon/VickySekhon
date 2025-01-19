@@ -12,6 +12,7 @@
     </a>
   </div>
 
+  <br>
   <!-- Profile Views -->
   <div align="center">
     <img
