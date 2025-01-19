@@ -189,6 +189,9 @@
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=VickySekhon&layout=compact&theme=codeSTACKr"
     />
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=VickySekhon&theme=github-compact"
+    />
   </div>
 
   <!-- Projects Section -->
