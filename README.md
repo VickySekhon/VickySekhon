@@ -61,7 +61,7 @@
   <h3>More about me:</h3>
   <ul>
     <li>
-      👨‍💻 I'm a Full-Stack Software Engineer.
+      🔍 I am searching for 4 or 8-month Summer 2025 Co-op Opportunities.
     </li>
     <li>
       👨‍🎓 Pursuing an Honours Computer Science Degree with Co-op @
