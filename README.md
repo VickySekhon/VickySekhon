@@ -136,7 +136,7 @@
       alt="MongoDB"
     />
     <img
-      src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"
+      src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"
       alt="MySQL"
     />
     <img
