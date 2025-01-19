@@ -61,7 +61,7 @@
   <h3>More about me:</h3>
   <ul>
     <li>
-      👨‍💻 A Full-Stack Software Engineer
+      👨‍💻 I'm a Full-Stack Software Engineer
     </li>
     <li>
       👨‍🎓 Pursuing an Honours Computer Science Degree with Co-op @
