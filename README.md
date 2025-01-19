@@ -12,9 +12,6 @@
     </a>
   </div>
   <hr />
-  <p align="center">
-    👨‍💻 A Full-Stack Software Engineer
-  </p>
 
   <!-- Profile Views -->
   <div align="center">
@@ -63,6 +60,9 @@
   <br />
   <h3>More about me:</h3>
   <ul>
+    <li>
+      👨‍💻 A Full-Stack Software Engineer
+    </li>
     <li>
       👨‍🎓 Pursuing an Honours Computer Science Degree with Co-op @
       <a href="https://www.wlu.ca/">Wilfrid Laurier University</a>.
