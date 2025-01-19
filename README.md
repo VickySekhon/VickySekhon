@@ -7,7 +7,6 @@
 <body>
   <!-- Header Section -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&width=435&lines=Hey+I'm+Vicky+Sekhon;A+Software+Developer;Computer+Science+Student;Cinephile%2C+Foodie%2C+%26+Gym-goer" alt="Typing SVG" /></a>
-  <hr/>
   <p align="center">
     👨‍💻 A Full-Stack Software Engineer
   </p>
