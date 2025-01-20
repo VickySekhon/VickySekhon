@@ -9,6 +9,10 @@
 <br>
 
 <div align="center">
+  <img width="250px" src="https://media0.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=6c09b9528j187ykdumoxem7ik70i6zp1nqgax2n65nhjoh8n&ep=v1_stickers_search&rid=giphy.gif&ct=s">
+</div>
+
+<div align="center">
   I am Currently Working as a Software Developer Intern @
   <br>
   <a href="https://www.mapflow.ca/about-us">
@@ -41,11 +45,6 @@
       />
   </a>
 </div>
-
-<div align="center">
-<img width="250px" src="https://media0.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=6c09b9528j187ykdumoxem7ik70i6zp1nqgax2n65nhjoh8n&ep=v1_stickers_search&rid=giphy.gif&ct=s">
-</div>
-
 
 ## More About Me:
 
