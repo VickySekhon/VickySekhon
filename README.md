@@ -1,33 +1,20 @@
-  
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=apple+system&size=25&pause=1000&color=D3D9E2FF&width=435&lines=Hey%2C+my+name+is+Vicky+Sekhon!;I+am+a+Full-Stack+Engineer;A+Computer+Science+Student;Cinephile%2C+Foodie%2C+%26+Gym-goer" alt="Welcome to my profile!" />
+</h1>
 
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=apple+system&size=25&pause=1000&color=D3D9E2FF&width=435&lines=Hey%2C+my+name+is+Vicky+Sekhon!;I+am+a+Full-Stack+Engineer;A+Computer+Science+Student;Cinephile%2C+Foodie%2C+%26+Gym-goer)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=VickySekhon&abbreviated=true&color=blue&style=for-the-badge" alt="Profile views"/>
+</div>
 
+<br>
 
-![Profile views](https://komarev.com/ghpvc/?username=VickySekhon&abbreviated=true&color=blue&style=for-the-badge)
-
-  
-
-I am Currently Working as a Software Developer Intern @
-
-<a href="https://www.mapflow.ca/about-us">
-  <img
-    src="https://4284c4a4.rocketcdn.me/wp-content/uploads/2022/11/mapflow-logo-bg.png"
-    alt="MAPflow Logo"
-    style="
-      width: 30%;
-      max-width: 200px;
-      border-radius: 10px;
-      margin-bottom: 20px;
-    "
-  />
-</a>
-
-I was previously a Software Engineer Intern @
-
-<a href="https://www.tangerine.ca/en/about-us">
+<div align="center">
+  I am Currently Working as a Software Developer Intern @
+  <br>
+  <a href="https://www.mapflow.ca/about-us">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Tangerine_Bank_logo.svg/2560px-Tangerine_Bank_logo.svg.png"
-      alt="Tangerine Logo"
+      src="https://4284c4a4.rocketcdn.me/wp-content/uploads/2022/11/mapflow-logo-bg.png"
+      alt="MAPflow Logo"
       style="
         width: 30%;
         max-width: 200px;
@@ -35,8 +22,25 @@ I was previously a Software Engineer Intern @
         margin-bottom: 20px;
       "
     />
-</a>
-  
+  </a>
+  <br>
+  <br>
+  I was previously a Software Engineer Intern @
+  <br>
+  <br>
+  <a href="https://www.tangerine.ca/en/about-us">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Tangerine_Bank_logo.svg/2560px-Tangerine_Bank_logo.svg.png"
+        alt="Tangerine Logo"
+        style="
+          width: 30%;
+          max-width: 200px;
+          border-radius: 10px;
+          margin-bottom: 20px;
+        "
+      />
+  </a>
+</div>
 
 ## More About Me:
 
@@ -47,6 +51,7 @@ I was previously a Software Engineer Intern @
 *   ⚡ Fun fact: I can solve a 3x3 Rubik's cube.
 
 ## Connect with me:
+
  [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vickysekhon/)[![](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/VickySekhon19)
 
 ## Languages and Tools:
@@ -73,7 +78,7 @@ I was previously a Software Engineer Intern @
 
 ## Developer-Related Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vickysekhon&layout=pie&theme=codeSTACKr)] ![](https://github-readme-activity-graph.vercel.app/graph?username=VickySekhon&theme=github-compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vickysekhon&layout=pie&theme=codeSTACKr) ![](https://github-readme-activity-graph.vercel.app/graph?username=VickySekhon&theme=github-compact)
 
 ## Projects:
 
