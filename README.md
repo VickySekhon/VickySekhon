@@ -42,7 +42,7 @@
   </a>
 </div>
 
-<img src="https://38.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif">
+<img src="https://media0.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=6c09b9528j187ykdumoxem7ik70i6zp1nqgax2n65nhjoh8n&ep=v1_stickers_search&rid=giphy.gif&ct=s">
 
 ## More About Me:
 
