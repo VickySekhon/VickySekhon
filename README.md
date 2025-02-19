@@ -28,6 +28,7 @@
       "
     />
   </a>
+  
   <br>
   <br>
   I was previously a Software Engineer Intern @
