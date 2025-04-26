@@ -49,7 +49,7 @@
 
 ## More About Me:
 
-*   🔍 I am searching for 4 or 8-month Summer 2025 Co-op Opportunities.
+*   🔍 I am searching for 4 month Fall 2025 Co-op Opportunities.
 *   👨‍🎓 Pursuing an Honours Computer Science Degree with Co-op @ [Wilfrid Laurier University](https://www.wlu.ca/).
 *   📰 Newsletter Chief @ [Laurier Computing Society](https://lauriercs.ca).
 *   💼 Ex-Computer Science Representative on the Faculty of Science Divisional Council @ [Wilfrid Laurier University](https://www.wlu.ca/about/governance/senate/divisional-councils.html).
