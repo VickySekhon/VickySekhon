@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  I am Currently Working as a Software Developer Intern @
+  I was previously a Software Developer Intern @
   <br>
   <a href="https://www.mapflow.ca/about-us">
     <img
