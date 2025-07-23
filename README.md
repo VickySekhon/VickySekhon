@@ -15,7 +15,7 @@
 <div align="center">
   I am currently an AI Engineer Intern @
   <br>
-  <a href="https://www.mapflow.ca/about-us">
+  <a href="https://www.scotiabank.com/ca/en/about.html">
     <img
       src="https://www.cdnlogo.com/logos/s/30/scotiabank.svg"
       alt="MAPflow Logo"
