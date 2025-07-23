@@ -13,6 +13,24 @@
 </div>
 
 <div align="center">
+  I am currently an AI Engineer Intern @
+  <br>
+  <a href="https://www.mapflow.ca/about-us">
+    <img
+      src="https://www.cdnlogo.com/logos/s/30/scotiabank.svg"
+      alt="MAPflow Logo"
+      style="
+        width: 30%;
+        max-width: 200px;
+        border-radius: 10px;
+        margin-bottom: 20px;
+      "
+    />
+  </a>
+
+<br>
+<br>
+<div align="center">
   I was previously a Software Developer Intern @
   <br>
   <a href="https://www.mapflow.ca/about-us">
