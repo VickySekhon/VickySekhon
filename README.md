@@ -28,7 +28,7 @@
     />
   </a>
   <br>
-  
+  <br>
   I was previously a Chatbot Engineer Intern @
   <br>
   <a href="https://www.scotiabank.com/ca/en/about.html">
