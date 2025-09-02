@@ -27,6 +27,7 @@
       "
     />
   </a>
+  <br>
   
   I was previously a Chatbot Engineer Intern @
   <br>
