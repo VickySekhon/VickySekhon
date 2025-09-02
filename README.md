@@ -78,11 +78,11 @@
 
 ## More About Me:
 
-*   🔍 I am searching for 4-month Fall 2025 Co-op Opportunities.
-*   👨‍🎓 Pursuing an Honours Computer Science Degree with Co-op @ [Wilfrid Laurier University](https://www.wlu.ca/).
-*   📰 Newsletter Chief @ [Laurier Computing Society](https://lauriercs.ca).
-*   💼 Ex-Computer Science Representative on the Faculty of Science Divisional Council @ [Wilfrid Laurier University](https://www.wlu.ca/about/governance/senate/divisional-councils.html).
-*   ⚡ Fun fact: I can solve a 3x3 Rubik's cube.
+*   🔍 I am searching for 4-month Winter 2026 or Summer 2026 internship opportunities.
+*   👨‍🎓 I am pursuing an Honours Computer Science Degree with Co-op @ [Wilfrid Laurier University](https://www.wlu.ca/).
+*   📰 I am an Ex-Newsletter Chief @ [Laurier Computing Society](https://lauriercs.ca).
+*   💼 I am an Ex-Computer Science Representative on the Faculty of Science Divisional Council @ [Wilfrid Laurier University](https://www.wlu.ca/about/governance/senate/divisional-councils.html).
+*   ⚡ Fun fact: I love speedcubing and I can solve a 3x3 Rubik's cube in <30 seconds!
 
 ## Connect with me:
 
