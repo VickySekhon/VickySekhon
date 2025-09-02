@@ -42,9 +42,6 @@
       "
     />
   </a>
-
-<br>
-<br>
 <div align="center">
   I was previously a Full-Stack Engineer Intern @
   <br>
