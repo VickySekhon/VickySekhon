@@ -57,8 +57,6 @@
       "
     />
   </a>
-  
-  <br>
   <br>
   I was previously an Automation Engineer Intern @
   <br>
