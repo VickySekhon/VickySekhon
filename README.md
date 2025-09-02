@@ -13,7 +13,22 @@
 </div>
 
 <div align="center">
-  I am currently an AI Engineer Intern @
+  I am currently a Site Reliability Intern @
+  <br>
+  <a href="https://www.dayforce.com/who-we-are/our-story">
+    <img
+      src="https://cdn.prod.website-files.com/64bc25206b4ad5fcc261b3aa/67d86ffa6d36ccc45ae8b01e_Logo-Dayforce-Primary-PNG.png"
+      alt="Dayforce Logo"
+      style="
+        width: 30%;
+        max-width: 200px;
+        border-radius: 10px;
+        margin-bottom: 20px;
+      "
+    />
+  </a>
+  
+  I was previously a Chatbot Engineer Intern @
   <br>
   <a href="https://www.scotiabank.com/ca/en/about.html">
     <img
@@ -31,7 +46,7 @@
 <br>
 <br>
 <div align="center">
-  I was previously a Software Developer Intern @
+  I was previously a Full-Stack Engineer Intern @
   <br>
   <a href="https://www.mapflow.ca/about-us">
     <img
@@ -48,7 +63,7 @@
   
   <br>
   <br>
-  I was previously a Software Engineer Intern @
+  I was previously an Automation Engineer Intern @
   <br>
   <br>
   <a href="https://www.tangerine.ca/en/about-us">
