@@ -42,23 +42,8 @@
       "
     />
   </a>
-<div align="center">
+  <br>
   I was previously a Full-Stack Engineer Intern @
-  <br>
-  <a href="https://www.mapflow.ca/about-us">
-    <img
-      src="https://4284c4a4.rocketcdn.me/wp-content/uploads/2022/11/mapflow-logo-bg.png"
-      alt="MAPflow Logo"
-      style="
-        width: 30%;
-        max-width: 200px;
-        border-radius: 10px;
-        margin-bottom: 20px;
-      "
-    />
-  </a>
-  <br>
-  I was previously an Automation Engineer Intern @
   <br>
   <br>
   <a href="https://www.tangerine.ca/en/about-us">
@@ -72,6 +57,21 @@
           margin-bottom: 20px;
         "
       />
+  </a>
+<div align="center">
+  I was previously an Automation Engineer Intern @
+  <br>
+  <a href="https://www.mapflow.ca/about-us">
+    <img
+      src="https://4284c4a4.rocketcdn.me/wp-content/uploads/2022/11/mapflow-logo-bg.png"
+      alt="MAPflow Logo"
+      style="
+        width: 30%;
+        max-width: 200px;
+        border-radius: 10px;
+        margin-bottom: 20px;
+      "
+    />
   </a>
 </div>
 </div>
