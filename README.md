@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=apple+system&size=25&pause=1000&color=D3D9E2FF&width=435&lines=Hey%2C+my+name+is+Vicky+Sekhon!;I+am+a+SRE;A+Computer+Science+Student;Cinephile%2C+Foodie%2C+%26+Gym-goer" alt="Welcome to my profile!" />
+  <img src="https://readme-typing-svg.demolab.com?font=apple+system&size=25&pause=1000&color=D3D9E2FF&width=435&lines=Hey%2C+my+name+is+Vicky+Sekhon!;I+am+a+SRE;A+Computer+Science+Student;I+like+rock+climbing%2C+puzzles%2C+%26+exercising" alt="Welcome to my profile!" />
 </h1>
 
 <div align="center">
