@@ -81,7 +81,8 @@
 *   🔍 I am searching for 4-month Winter 2026 or Summer 2026 internship opportunities.
 *   👨‍🎓 I am pursuing an Honours Computer Science Degree with Co-op @ [Wilfrid Laurier University](https://www.wlu.ca/).
 *   📝 I am a Campus Ambassador @ [Opennote](https://www.opennote.com/info/mission)
-*   📰 I am an Ex-Newsletter Chief @ [Laurier Computing Society](https://lauriercs.ca) and Representative on the Faculty of Science Council @ [Wilfrid Laurier University](https://www.wlu.ca/about/governance/senate/divisional)
+*   📰 I am an Ex-Newsletter Chief @ [Laurier Computing Society](https://lauriercs.ca).
+*   💼 I am an Ex-Computer Science Representative on the Faculty of Science Divisional Council @ [Wilfrid Laurier University](https://www.wlu.ca/about/governance/senate/divisional-councils.html).
 *   ⚡ Fun fact: I love speedcubing and I can solve a 3x3 Rubik's cube in <30 seconds!
 
 ## Connect with me:
