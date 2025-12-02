@@ -78,7 +78,7 @@
 
 ## More About Me:
 
-*   🔍 I am searching for 4-month Winter 2026 or Summer 2026 internship opportunities.
+*   🔍 I am searching for 4 or 8-month Summer 2026 internship opportunities.
 *   👨‍🎓 I am pursuing an Honours Computer Science Degree with Co-op @ [Wilfrid Laurier University](https://www.wlu.ca/).
 *   📝 I am a Campus Ambassador @ [Opennote](https://www.opennote.com/info/mission)
 *   📰 I am an Ex-Newsletter Chief @ [Laurier Computing Society](https://lauriercs.ca).
