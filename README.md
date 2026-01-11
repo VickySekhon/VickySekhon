@@ -39,6 +39,7 @@
         max-width: 200px;
         border-radius: 10px;
         margin-bottom: 20px;
+        border: 2px solid red;
       "
     />
   </a>
