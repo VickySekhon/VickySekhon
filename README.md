@@ -48,7 +48,7 @@
   <br>
   <a href="https://www.tangerine.ca/en/about-us">
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Tangerine_Bank_logo.svg/2560px-Tangerine_Bank_logo.svg.png"
+        src="https://download.logo.wine/logo/Tangerine_Bank/Tangerine_Bank-Logo.wine.png"
         alt="Tangerine Logo"
         style="
           width: 30%;
