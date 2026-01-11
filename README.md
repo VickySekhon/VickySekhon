@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  I am <b>currently</b> a Site Reliability Engineering Intern @
+  I was previously a Site Reliability Engineering Intern @
   <br>
   <a href="https://www.dayforce.com/who-we-are/our-story">
     <img
