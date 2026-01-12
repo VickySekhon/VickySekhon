@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=apple+system&size=25&pause=1000&color=D3D9E2FF&width=435&lines=Hey%2C+my+name+is+Vicky+Sekhon!;I+am+a+Computer+Science+Student;I+enjoy+rock+climbing+%26+puzzles" alt="Welcome to my profile!" />
 </h1>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/EthanJamesLew/github-readme-stats-academic)
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=VickySekhon&abbreviated=true&color=blue&style=for-the-badge" alt="Profile views"/>
 </div>
