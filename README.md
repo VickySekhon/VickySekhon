@@ -114,7 +114,7 @@
 
 ## Developer-Related Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vickysekhon&layout=pie&theme=codeSTACKr) ![](https://github-readme-activity-graph.vercel.app/graph?username=VickySekhon&theme=github-compact)
+![](https://github-readme-activity-graph.vercel.app/graph?username=VickySekhon&theme=github-compact)
 
 ## Projects:
 
