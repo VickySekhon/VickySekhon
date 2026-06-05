@@ -13,6 +13,21 @@
 </div>
 
 <div align="center">
+  I am currently a Quantitative Developer Intern @
+  <br>
+  <a href="https://www.pictoninvestments.com/en/purpose">
+    <img
+      src="https://images.ctfassets.net/t5lob2yqg8ih/6w4mvnnwiOxokAgc8APQe4/db5e1178a913be0ec8ab5c36563e1a86/Picton-Investments-Logo-Secondary.png"
+      alt="Picton Investments Logo"
+      style="
+        width: 30%;
+        max-width: 200px;
+        border-radius: 10px;
+        margin-bottom: 20px;
+      "
+    />
+  </a>
+  <br>
   I was previously a Site Reliability Engineering Intern @
   <br>
   <a href="https://www.dayforce.com/who-we-are/our-story">
