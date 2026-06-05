@@ -11,12 +11,11 @@
 <div align="center">
   <img width="250px" src="https://media0.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=6c09b9528j187ykdumoxem7ik70i6zp1nqgax2n65nhjoh8n&ep=v1_stickers_search&rid=giphy.gif&ct=s">
 </div>
-
-<br>
 <div align="center">
   I am currently a Quantitative Developer Intern @
   <br>
-  <a href="https://www.pictoninvestments.com/en/purpose">
+  <a style="display: block; margin-top: 16px;"
+    href="https://www.pictoninvestments.com/en/purpose">
     <img
       src="https://images.ctfassets.net/t5lob2yqg8ih/6w4mvnnwiOxokAgc8APQe4/db5e1178a913be0ec8ab5c36563e1a86/Picton-Investments-Logo-Secondary.png"
       alt="Picton Investments Logo"
