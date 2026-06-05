@@ -23,11 +23,11 @@
         width: 30%;
         max-width: 200px;
         border-radius: 10px;
-        margin-bottom: 40px;
-        margin-top: 40px;
+        margin-bottom: 20px;
       "
     />
   </a>
+  <br>
   <br>
   <br>
   I was previously a Site Reliability Engineering Intern @
