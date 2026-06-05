@@ -12,6 +12,7 @@
   <img width="250px" src="https://media0.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=6c09b9528j187ykdumoxem7ik70i6zp1nqgax2n65nhjoh8n&ep=v1_stickers_search&rid=giphy.gif&ct=s">
 </div>
 
+<br>
 <div align="center">
   I am currently a Quantitative Developer Intern @
   <br>
