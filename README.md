@@ -14,8 +14,7 @@
 <div align="center">
   I am currently a Quantitative Developer Intern @
   <br>
-  <br>
-  <a style="display: block; margin-top: 16px;"
+  <a style="display: block; margin-top: 8px;"
     href="https://www.pictoninvestments.com/en/purpose">
     <img
       src="https://images.ctfassets.net/t5lob2yqg8ih/6w4mvnnwiOxokAgc8APQe4/db5e1178a913be0ec8ab5c36563e1a86/Picton-Investments-Logo-Secondary.png"
@@ -24,11 +23,10 @@
         width: 30%;
         max-width: 200px;
         border-radius: 10px;
+        margin-bottom: 8px;
       "
     />
   </a>
-  <br>
-  <br>
   <br>
   I was previously a Site Reliability Engineering Intern @
   <br>
