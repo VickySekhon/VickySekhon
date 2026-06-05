@@ -14,6 +14,7 @@
 <div align="center">
   I am currently a Quantitative Developer Intern @
   <br>
+  <br>
   <a style="display: block; margin-top: 16px;"
     href="https://www.pictoninvestments.com/en/purpose">
     <img
