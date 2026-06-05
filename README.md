@@ -23,7 +23,6 @@
         width: 30%;
         max-width: 200px;
         border-radius: 10px;
-        margin-bottom: 20px;
       "
     />
   </a>
