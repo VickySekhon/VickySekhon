@@ -47,8 +47,8 @@
   <br>
   <a href="https://www.scotiabank.com/ca/en/about.html">
     <img
-      src="https://www.cdnlogo.com/logos/s/30/scotiabank.svg"
-      alt="MAPflow Logo"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Scotiabank_logo.svg/3840px-Scotiabank_logo.svg.png"
+      alt="Scotiabank Logo"
       style="
         width: 30%;
         max-width: 200px;
@@ -79,7 +79,7 @@
   <br>
   <a href="https://www.mapflow.ca/about-us">
     <img
-      src="https://cdn.prod.website-files.com/6376eaca3a20ba83a7234078/672e216c5098925df712cfd9_mapflow-logo-reverse.svg"
+      src="https://4284c4a4.rocketcdn.me/wp-content/uploads/2022/11/mapflow-logo-bg.png"
       alt="MAPflow Logo"
       style="
         width: 30%;
