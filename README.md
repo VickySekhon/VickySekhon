@@ -79,7 +79,7 @@
   <br>
   <a href="https://www.mapflow.ca/about-us">
     <img
-      src="https://4284c4a4.rocketcdn.me/wp-content/uploads/2022/11/mapflow-logo-bg.png"
+      src="https://cdn.prod.website-files.com/6376eaca3a20ba83a7234078/672e216c5098925df712cfd9_mapflow-logo-reverse.svg"
       alt="MAPflow Logo"
       style="
         width: 30%;
