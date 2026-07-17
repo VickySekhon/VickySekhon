@@ -101,7 +101,7 @@
 *   💼 I am an Ex-Computer Science Representative on the Faculty of Science Divisional Council @ [Wilfrid Laurier University](https://www.wlu.ca/about/governance/senate/divisional-councils.html).
 *   ⚡ Fun fact: I love speedcubing and I can solve a 3x3 Rubik's cube in <30 seconds!
 
-## Connect with me:
+## Connect with Me:
 
  [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vickysekhon/)[![](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/VickySekhon19)[![](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/VickySekhon?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)[![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/VickySekhon/)
 
