@@ -64,7 +64,7 @@
   <br>
   <a href="https://www.tangerine.ca/en/about-us">
       <img
-        src="https://smarterloans.b-cdn.net/wp-content/uploads/tangerine-logo-smarter-loans-e1593706425291.png"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Tangerine_Bank_logo.svg/3840px-Tangerine_Bank_logo.svg.png"
         alt="Tangerine Logo"
         style="
           width: 30%;
